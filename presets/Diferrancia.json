@@ -1,0 +1,37 @@
+{
+  "sections": {
+    "library": false,
+    "voice": true,
+    "grains": true,
+    "pitch": true,
+    "output": true
+  },
+  "voice": {
+    "mix": 0.0
+  },
+  "grains": {
+    "density": 2,
+    "mutation": 0.42298850574712643,
+    "phonetic": 0.5992337164750958
+  },
+  "pitch": {
+    "mode": "interval",
+    "interval": "tritone",
+    "tuning": "ji",
+    "preserve": 0.3782805429864253
+  },
+  "output": {
+    "rms_threshold": 0.01184551724137931,
+    "input_device": {
+      "name": "Microfone (Realtek(R) Audio)",
+      "hostapi": "MME"
+    },
+    "output_device": {
+      "name": "Fones de ouvido (Realtek(R) Aud",
+      "hostapi": "MME"
+    }
+  },
+  "version": 1,
+  "name": "Diferrancia",
+  "saved_at": "2026-10-21T04:54:50.845154+00:00"
+}

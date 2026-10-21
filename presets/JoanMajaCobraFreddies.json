@@ -1,0 +1,21 @@
+{
+  "sections": {
+    "library": true,
+    "voice": false,
+    "grains": false,
+    "pitch": false,
+    "output": false
+  },
+  "library": {
+    "sources": [
+      "09 Cobra.mp3",
+      "fakeyou_improv_freddies.mp3",
+      "joan-klee alee_trecho.mp3",
+      "maja-Study_1_four_track_voice.mp3"
+    ],
+    "active_grains": 1800
+  },
+  "version": 1,
+  "name": "JoanMajaCobraFreddies",
+  "saved_at": "2026-10-21T04:00:01.218929+00:00"
+}
