@@ -1,0 +1,16 @@
+metric,value
+candidates,23299
+selected,1800
+targets.tonal,432
+targets.noisy,684
+targets.transient,684
+class_counts.transient,700
+class_counts.noisy,661
+class_counts.tonal,439
+budget,1800
+per_file_cap,400
+hop,0.07
+scales,"[0.06, 0.12, 0.18, 0.35]"
+quotas.transient,0.38
+quotas.tonal,0.24
+quotas.noisy,0.38

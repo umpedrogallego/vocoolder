@@ -1,0 +1,1801 @@
+grain_id,file_name,start_sample,start_seconds,duration_seconds,scale_ms,onset,class
+0,01 Goticulas.mp3,45056,1.0217,0.18,180.0,Y,transient
+1,01 Goticulas.mp3,54272,1.2307,0.06,60.0,Y,transient
+2,01 Goticulas.mp3,68864,1.5615,0.1103,110.3,Y,transient
+3,01 Goticulas.mp3,68864,1.5615,0.06,60.0,Y,noisy
+4,01 Goticulas.mp3,92610,2.1,0.35,350.0,N,noisy
+5,01 Goticulas.mp3,92672,2.1014,0.06,60.0,Y,transient
+6,01 Goticulas.mp3,102400,2.322,0.18,180.0,Y,noisy
+7,01 Goticulas.mp3,104958,2.38,0.06,60.0,N,noisy
+8,01 Goticulas.mp3,105472,2.3917,0.06,60.0,Y,noisy
+9,01 Goticulas.mp3,105472,2.3917,0.12,120.0,Y,noisy
+10,01 Goticulas.mp3,105472,2.3917,0.18,180.0,Y,noisy
+11,01 Goticulas.mp3,138915,3.15,0.35,350.0,N,noisy
+12,01 Goticulas.mp3,142002,3.22,0.12,120.0,N,noisy
+13,01 Goticulas.mp3,142002,3.22,0.18,180.0,N,noisy
+14,01 Goticulas.mp3,148176,3.36,0.35,350.0,N,noisy
+15,01 Goticulas.mp3,148992,3.3785,0.12,120.0,Y,transient
+16,01 Goticulas.mp3,148992,3.3785,0.18,180.0,Y,transient
+17,01 Goticulas.mp3,155136,3.5178,0.06,60.0,Y,transient
+18,01 Goticulas.mp3,155136,3.5178,0.12,120.0,Y,transient
+19,01 Goticulas.mp3,155136,3.5178,0.1509,150.9,Y,transient
+20,01 Goticulas.mp3,157437,3.57,0.35,350.0,N,noisy
+21,01 Goticulas.mp3,161792,3.6688,0.06,60.0,Y,transient
+22,01 Goticulas.mp3,166698,3.78,0.35,350.0,N,noisy
+23,01 Goticulas.mp3,169785,3.85,0.18,180.0,N,noisy
+24,01 Goticulas.mp3,172872,3.92,0.06,60.0,N,noisy
+25,01 Goticulas.mp3,175959,3.99,0.35,350.0,N,noisy
+26,01 Goticulas.mp3,187392,4.2493,0.18,180.0,Y,noisy
+27,01 Goticulas.mp3,187392,4.2493,0.06,60.0,Y,noisy
+28,01 Goticulas.mp3,192512,4.3654,0.06,60.0,Y,transient
+29,01 Goticulas.mp3,259308,5.88,0.06,60.0,N,noisy
+30,01 Goticulas.mp3,259308,5.88,0.35,350.0,N,noisy
+31,01 Goticulas.mp3,259328,5.8805,0.12,120.0,Y,noisy
+32,01 Goticulas.mp3,259328,5.8805,0.1567,156.7,Y,noisy
+33,01 Goticulas.mp3,259328,5.8805,0.06,60.0,Y,noisy
+34,01 Goticulas.mp3,268569,6.09,0.35,350.0,N,noisy
+35,01 Goticulas.mp3,272640,6.1823,0.06,60.0,Y,transient
+36,01 Goticulas.mp3,305613,6.93,0.35,350.0,N,noisy
+37,01 Goticulas.mp3,314874,7.14,0.35,350.0,N,noisy
+38,01 Goticulas.mp3,333396,7.56,0.35,350.0,N,noisy
+39,01 Goticulas.mp3,342657,7.77,0.35,350.0,N,noisy
+40,01 Goticulas.mp3,398223,9.03,0.35,350.0,N,noisy
+41,01 Goticulas.mp3,420864,9.5434,0.2902,290.2,Y,transient
+42,01 Goticulas.mp3,453789,10.29,0.35,350.0,N,tonal
+43,01 Goticulas.mp3,520704,11.8073,0.0871,87.1,Y,tonal
+44,01 Goticulas.mp3,537138,12.18,0.35,350.0,N,tonal
+45,01 Goticulas.mp3,601965,13.65,0.35,350.0,N,noisy
+46,01 Goticulas.mp3,724224,16.4223,0.06,60.0,Y,noisy
+47,01 Goticulas.mp3,727296,16.492,0.06,60.0,Y,transient
+48,01 Goticulas.mp3,731619,16.59,0.35,350.0,N,noisy
+49,01 Goticulas.mp3,750141,17.01,0.35,350.0,N,noisy
+50,01 Goticulas.mp3,759402,17.22,0.35,350.0,N,noisy
+51,01 Goticulas.mp3,774656,17.5659,0.1741,174.1,Y,transient
+52,01 Goticulas.mp3,777924,17.64,0.35,350.0,N,noisy
+53,01 Goticulas.mp3,782336,17.74,0.06,60.0,Y,transient
+54,01 Goticulas.mp3,782336,17.74,0.0987,98.7,Y,transient
+55,01 Goticulas.mp3,788736,17.8852,0.06,60.0,Y,transient
+56,01 Goticulas.mp3,788736,17.8852,0.267,267.0,Y,transient
+57,01 Goticulas.mp3,796446,18.06,0.35,350.0,N,tonal
+58,01 Goticulas.mp3,861273,19.53,0.35,350.0,N,tonal
+59,01 Goticulas.mp3,870534,19.74,0.35,350.0,N,tonal
+60,01 Goticulas.mp3,891136,20.2072,0.06,60.0,Y,transient
+61,01 Goticulas.mp3,891136,20.2072,0.12,120.0,Y,transient
+62,01 Goticulas.mp3,891136,20.2072,0.18,180.0,Y,transient
+63,01 Goticulas.mp3,980992,22.2447,0.06,60.0,Y,transient
+64,01 Goticulas.mp3,981666,22.26,0.35,350.0,N,noisy
+65,01 Goticulas.mp3,990927,22.47,0.35,350.0,N,noisy
+66,01 Goticulas.mp3,994014,22.54,0.06,60.0,N,noisy
+67,01 Goticulas.mp3,994304,22.5466,0.06,60.0,Y,noisy
+68,01 Goticulas.mp3,1000188,22.68,0.35,350.0,N,tonal
+69,01 Goticulas.mp3,1032448,23.4115,0.2322,232.2,Y,tonal
+70,01 Goticulas.mp3,1037232,23.52,0.35,350.0,N,tonal
+71,01 Goticulas.mp3,1046493,23.73,0.35,350.0,N,noisy
+72,01 Goticulas.mp3,1052672,23.8701,0.267,267.0,Y,transient
+73,01 Goticulas.mp3,1068032,24.2184,0.2322,232.2,Y,tonal
+74,01 Goticulas.mp3,1155072,26.1921,0.06,60.0,Y,transient
+75,01 Goticulas.mp3,1166886,26.46,0.35,350.0,N,noisy
+76,01 Goticulas.mp3,1177344,26.6971,0.06,60.0,Y,noisy
+77,01 Goticulas.mp3,1185408,26.88,0.35,350.0,N,noisy
+78,01 Goticulas.mp3,1213191,27.51,0.35,350.0,N,noisy
+79,01 Goticulas.mp3,1216278,27.58,0.06,60.0,N,noisy
+80,01 Goticulas.mp3,1240974,28.14,0.35,350.0,N,noisy
+81,01 Goticulas.mp3,1257728,28.5199,0.06,60.0,Y,transient
+82,01 Goticulas.mp3,1268757,28.77,0.35,350.0,N,noisy
+83,01 Goticulas.mp3,1277952,28.9785,0.2961,296.1,Y,noisy
+84,01 Goticulas.mp3,1278018,28.98,0.35,350.0,N,noisy
+85,01 Goticulas.mp3,1287279,29.19,0.35,350.0,N,noisy
+86,01 Goticulas.mp3,1290366,29.26,0.12,120.0,N,noisy
+87,01 Goticulas.mp3,1320448,29.9421,0.06,60.0,Y,transient
+88,01 Goticulas.mp3,1324323,30.03,0.35,350.0,N,noisy
+89,01 Goticulas.mp3,1342845,30.45,0.35,350.0,N,tonal
+90,01 Goticulas.mp3,1344000,30.4762,0.06,60.0,Y,transient
+91,01 Goticulas.mp3,1481760,33.6,0.35,350.0,N,noisy
+92,01 Goticulas.mp3,1482752,33.6225,0.1509,150.9,Y,transient
+93,01 Goticulas.mp3,1489408,33.7734,0.18,180.0,Y,noisy
+94,01 Goticulas.mp3,1489408,33.7734,0.2902,290.2,Y,noisy
+95,01 Goticulas.mp3,1491021,33.81,0.18,180.0,N,noisy
+96,01 Goticulas.mp3,1491021,33.81,0.35,350.0,N,noisy
+97,01 Goticulas.mp3,1494108,33.88,0.06,60.0,N,noisy
+98,01 Goticulas.mp3,1494108,33.88,0.12,120.0,N,noisy
+99,01 Goticulas.mp3,1494108,33.88,0.18,180.0,N,noisy
+100,01 Goticulas.mp3,1497195,33.95,0.18,180.0,N,noisy
+101,01 Goticulas.mp3,1511936,34.2843,0.12,120.0,Y,noisy
+102,01 Goticulas.mp3,1512630,34.3,0.12,120.0,N,noisy
+103,01 Goticulas.mp3,1512630,34.3,0.06,60.0,N,noisy
+104,01 Goticulas.mp3,1537326,34.86,0.06,60.0,N,noisy
+105,01 Goticulas.mp3,1537792,34.8706,0.1045,104.5,Y,noisy
+106,01 Goticulas.mp3,1542400,34.9751,0.12,120.0,Y,transient
+107,01 Goticulas.mp3,1544960,35.0331,0.06,60.0,Y,transient
+108,01 Goticulas.mp3,1544960,35.0331,0.1451,145.1,Y,tonal
+109,01 Goticulas.mp3,1546587,35.07,0.35,350.0,N,noisy
+110,01 Goticulas.mp3,1555848,35.28,0.35,350.0,N,noisy
+111,01 Goticulas.mp3,1561600,35.4104,0.18,180.0,Y,transient
+112,01 Goticulas.mp3,1565109,35.49,0.35,350.0,N,noisy
+113,01 Goticulas.mp3,1565184,35.4917,0.06,60.0,Y,transient
+114,01 Goticulas.mp3,1574370,35.7,0.18,180.0,N,noisy
+115,01 Goticulas.mp3,1574370,35.7,0.35,350.0,N,noisy
+116,01 Goticulas.mp3,1579776,35.8226,0.06,60.0,Y,noisy
+117,01 Goticulas.mp3,1579776,35.8226,0.0639,63.9,Y,noisy
+118,01 Goticulas.mp3,1580544,35.84,0.06,60.0,N,noisy
+119,01 Goticulas.mp3,1582592,35.8864,0.06,60.0,Y,transient
+120,01 Goticulas.mp3,1583631,35.91,0.35,350.0,N,noisy
+121,01 Goticulas.mp3,1585408,35.9503,0.2206,220.6,Y,tonal
+122,01 Goticulas.mp3,1592892,36.12,0.35,350.0,N,noisy
+123,01 Goticulas.mp3,1602153,36.33,0.35,350.0,N,noisy
+124,01 Goticulas.mp3,1602816,36.345,0.06,60.0,Y,transient
+125,01 Goticulas.mp3,1604864,36.3915,0.06,60.0,Y,transient
+126,01 Goticulas.mp3,1611414,36.54,0.35,350.0,N,noisy
+127,01 Goticulas.mp3,1612032,36.554,0.18,180.0,Y,noisy
+128,01 Goticulas.mp3,1612032,36.554,0.2844,284.4,Y,noisy
+129,01 Goticulas.mp3,1614501,36.61,0.18,180.0,N,noisy
+130,01 Goticulas.mp3,1617588,36.68,0.06,60.0,N,noisy
+131,01 Goticulas.mp3,1629936,36.96,0.35,350.0,N,noisy
+132,01 Goticulas.mp3,1647616,37.3609,0.06,60.0,Y,transient
+133,05 Borboleta.mp3,18522,0.42,0.35,350.0,N,transient
+134,05 Borboleta.mp3,18944,0.4296,0.06,60.0,Y,transient
+135,05 Borboleta.mp3,18944,0.4296,0.12,120.0,Y,transient
+136,05 Borboleta.mp3,18944,0.4296,0.18,180.0,Y,transient
+137,05 Borboleta.mp3,25088,0.5689,0.06,60.0,Y,transient
+138,05 Borboleta.mp3,30464,0.6908,0.06,60.0,Y,transient
+139,05 Borboleta.mp3,40192,0.9114,0.06,60.0,Y,transient
+140,05 Borboleta.mp3,40192,0.9114,0.0639,63.9,Y,transient
+141,05 Borboleta.mp3,49152,1.1146,0.0987,98.7,Y,transient
+142,05 Borboleta.mp3,49152,1.1146,0.18,180.0,Y,transient
+143,05 Borboleta.mp3,53504,1.2132,0.06,60.0,Y,transient
+144,05 Borboleta.mp3,53504,1.2132,0.1045,104.5,Y,transient
+145,05 Borboleta.mp3,53504,1.2132,0.18,180.0,Y,transient
+146,05 Borboleta.mp3,58112,1.3177,0.06,60.0,Y,transient
+147,05 Borboleta.mp3,58112,1.3177,0.0987,98.7,Y,transient
+148,05 Borboleta.mp3,81152,1.8402,0.1335,133.5,Y,tonal
+149,05 Borboleta.mp3,83349,1.89,0.35,350.0,N,noisy
+150,05 Borboleta.mp3,87040,1.9737,0.06,60.0,Y,noisy
+151,05 Borboleta.mp3,87040,1.9737,0.1219,121.9,Y,noisy
+152,05 Borboleta.mp3,87040,1.9737,0.18,180.0,Y,noisy
+153,05 Borboleta.mp3,87040,1.9737,0.12,120.0,Y,noisy
+154,05 Borboleta.mp3,92610,2.1,0.35,350.0,N,tonal
+155,05 Borboleta.mp3,100864,2.2872,0.06,60.0,Y,transient
+156,05 Borboleta.mp3,100864,2.2872,0.1045,104.5,Y,transient
+157,05 Borboleta.mp3,108288,2.4555,0.06,60.0,Y,transient
+158,05 Borboleta.mp3,108288,2.4555,0.0987,98.7,Y,transient
+159,05 Borboleta.mp3,115712,2.6239,0.06,60.0,Y,transient
+160,05 Borboleta.mp3,115712,2.6239,0.0929,92.9,Y,transient
+161,05 Borboleta.mp3,123136,2.7922,0.1045,104.5,Y,transient
+162,05 Borboleta.mp3,127744,2.8967,0.18,180.0,Y,transient
+163,05 Borboleta.mp3,131328,2.978,0.06,60.0,Y,transient
+164,05 Borboleta.mp3,151263,3.43,0.18,180.0,N,tonal
+165,05 Borboleta.mp3,156928,3.5585,0.0871,87.1,Y,tonal
+166,05 Borboleta.mp3,160768,3.6455,0.06,60.0,Y,transient
+167,05 Borboleta.mp3,160768,3.6455,0.0987,98.7,Y,transient
+168,05 Borboleta.mp3,167424,3.7965,0.06,60.0,Y,transient
+169,05 Borboleta.mp3,167424,3.7965,0.0929,92.9,Y,transient
+170,05 Borboleta.mp3,167424,3.7965,0.18,180.0,Y,transient
+171,05 Borboleta.mp3,175616,3.9822,0.06,60.0,Y,transient
+172,09 Cobra.mp3,9261,0.21,0.35,350.0,N,tonal
+173,09 Cobra.mp3,46305,1.05,0.35,350.0,N,tonal
+174,09 Cobra.mp3,55566,1.26,0.35,350.0,N,tonal
+175,09 Cobra.mp3,74088,1.68,0.35,350.0,N,tonal
+176,09 Cobra.mp3,92610,2.1,0.35,350.0,N,tonal
+177,09 Cobra.mp3,101871,2.31,0.35,350.0,N,tonal
+178,09 Cobra.mp3,111132,2.52,0.35,350.0,N,tonal
+179,09 Cobra.mp3,120393,2.73,0.35,350.0,N,tonal
+180,09 Cobra.mp3,129654,2.94,0.35,350.0,N,tonal
+181,09 Cobra.mp3,138915,3.15,0.35,350.0,N,tonal
+182,09 Cobra.mp3,148176,3.36,0.35,350.0,N,tonal
+183,09 Cobra.mp3,157437,3.57,0.35,350.0,N,tonal
+184,09 Cobra.mp3,166698,3.78,0.35,350.0,N,tonal
+185,09 Cobra.mp3,213003,4.83,0.35,350.0,N,tonal
+186,09 Cobra.mp3,222264,5.04,0.35,350.0,N,tonal
+187,09 Cobra.mp3,222720,5.0503,0.2612,261.2,Y,tonal
+188,09 Cobra.mp3,238848,5.4161,0.1277,127.7,Y,tonal
+189,09 Cobra.mp3,277830,6.3,0.35,350.0,N,tonal
+190,09 Cobra.mp3,293632,6.6583,0.3483,348.3,Y,tonal
+191,09 Cobra.mp3,296352,6.72,0.35,350.0,N,tonal
+192,09 Cobra.mp3,305613,6.93,0.35,350.0,N,tonal
+193,09 Cobra.mp3,314874,7.14,0.35,350.0,N,tonal
+194,09 Cobra.mp3,324135,7.35,0.35,350.0,N,tonal
+195,09 Cobra.mp3,333396,7.56,0.35,350.0,N,tonal
+196,09 Cobra.mp3,342657,7.77,0.35,350.0,N,tonal
+197,09 Cobra.mp3,351918,7.98,0.35,350.0,N,tonal
+198,09 Cobra.mp3,361179,8.19,0.35,350.0,N,tonal
+199,09 Cobra.mp3,370440,8.4,0.35,350.0,N,tonal
+200,09 Cobra.mp3,379701,8.61,0.35,350.0,N,tonal
+201,09 Cobra.mp3,388962,8.82,0.35,350.0,N,tonal
+202,09 Cobra.mp3,398223,9.03,0.35,350.0,N,tonal
+203,09 Cobra.mp3,407484,9.24,0.35,350.0,N,tonal
+204,09 Cobra.mp3,463050,10.5,0.35,350.0,N,tonal
+205,09 Cobra.mp3,527877,11.97,0.35,350.0,N,tonal
+206,09 Cobra.mp3,537344,12.1847,0.2554,255.4,Y,tonal
+207,09 Cobra.mp3,548608,12.4401,0.267,267.0,Y,transient
+208,09 Cobra.mp3,564921,12.81,0.35,350.0,N,tonal
+209,09 Cobra.mp3,574182,13.02,0.35,350.0,N,tonal
+210,09 Cobra.mp3,583443,13.23,0.35,350.0,N,tonal
+211,09 Cobra.mp3,601965,13.65,0.35,350.0,N,tonal
+212,09 Cobra.mp3,611226,13.86,0.35,350.0,N,tonal
+213,09 Cobra.mp3,620487,14.07,0.35,350.0,N,tonal
+214,09 Cobra.mp3,647680,14.6866,0.2032,203.2,Y,tonal
+215,09 Cobra.mp3,648270,14.7,0.35,350.0,N,tonal
+216,09 Cobra.mp3,736512,16.701,0.12,120.0,Y,transient
+217,09 Cobra.mp3,739584,16.7706,0.2961,296.1,Y,transient
+218,09 Cobra.mp3,768663,17.43,0.35,350.0,N,tonal
+219,09 Cobra.mp3,777924,17.64,0.35,350.0,N,tonal
+220,09 Cobra.mp3,796446,18.06,0.35,350.0,N,tonal
+221,09 Cobra.mp3,811264,18.396,0.209,209.0,Y,tonal
+222,09 Cobra.mp3,824229,18.69,0.35,350.0,N,tonal
+223,09 Cobra.mp3,842751,19.11,0.35,350.0,N,tonal
+224,09 Cobra.mp3,852012,19.32,0.35,350.0,N,tonal
+225,09 Cobra.mp3,861273,19.53,0.35,350.0,N,tonal
+226,09 Cobra.mp3,870534,19.74,0.35,350.0,N,tonal
+227,09 Cobra.mp3,889056,20.16,0.35,350.0,N,tonal
+228,09 Cobra.mp3,898317,20.37,0.35,350.0,N,tonal
+229,09 Cobra.mp3,907578,20.58,0.35,350.0,N,tonal
+230,09 Cobra.mp3,916839,20.79,0.35,350.0,N,tonal
+231,09 Cobra.mp3,926100,21.0,0.35,350.0,N,tonal
+232,09 Cobra.mp3,935361,21.21,0.35,350.0,N,tonal
+233,09 Cobra.mp3,944622,21.42,0.35,350.0,N,tonal
+234,09 Cobra.mp3,1018710,23.1,0.35,350.0,N,noisy
+235,09 Cobra.mp3,1024884,23.24,0.06,60.0,N,noisy
+236,09 Cobra.mp3,1026560,23.278,0.2264,226.4,Y,tonal
+237,09 Cobra.mp3,1027971,23.31,0.35,350.0,N,noisy
+238,09 Cobra.mp3,1037232,23.52,0.35,350.0,N,noisy
+239,09 Cobra.mp3,1089024,24.6944,0.06,60.0,Y,transient
+240,09 Cobra.mp3,1092798,24.78,0.35,350.0,N,tonal
+241,09 Cobra.mp3,1111320,25.2,0.35,350.0,N,tonal
+242,09 Cobra.mp3,1120581,25.41,0.35,350.0,N,tonal
+243,09 Cobra.mp3,1129842,25.62,0.35,350.0,N,tonal
+244,09 Cobra.mp3,1148364,26.04,0.35,350.0,N,tonal
+245,09 Cobra.mp3,1157625,26.25,0.35,350.0,N,tonal
+246,09 Cobra.mp3,1166886,26.46,0.35,350.0,N,tonal
+247,09 Cobra.mp3,1176147,26.67,0.35,350.0,N,tonal
+248,09 Cobra.mp3,1185408,26.88,0.35,350.0,N,tonal
+249,09 Cobra.mp3,1194669,27.09,0.35,350.0,N,tonal
+250,09 Cobra.mp3,1203930,27.3,0.35,350.0,N,tonal
+251,09 Cobra.mp3,1209856,27.4344,0.0871,87.1,Y,tonal
+252,09 Cobra.mp3,1213191,27.51,0.35,350.0,N,tonal
+253,09 Cobra.mp3,1221632,27.7014,0.2322,232.2,Y,tonal
+254,09 Cobra.mp3,1241600,28.1542,0.18,180.0,Y,transient
+255,09 Cobra.mp3,1291776,29.292,0.06,60.0,Y,transient
+256,09 Cobra.mp3,1349019,30.59,0.18,180.0,N,noisy
+257,09 Cobra.mp3,1352106,30.66,0.12,120.0,N,noisy
+258,09 Cobra.mp3,1352106,30.66,0.35,350.0,N,noisy
+259,09 Cobra.mp3,1352106,30.66,0.06,60.0,N,noisy
+260,09 Cobra.mp3,1361367,30.87,0.35,350.0,N,noisy
+261,Inés Terra - regougar - 04 Pulso.mp3,110336,2.502,0.06,60.0,Y,transient
+262,Inés Terra - regougar - 04 Pulso.mp3,110336,2.502,0.12,120.0,Y,transient
+263,Inés Terra - regougar - 04 Pulso.mp3,111132,2.52,0.35,350.0,N,tonal
+264,Inés Terra - regougar - 04 Pulso.mp3,120393,2.73,0.35,350.0,N,tonal
+265,Inés Terra - regougar - 04 Pulso.mp3,123480,2.8,0.18,180.0,N,tonal
+266,Inés Terra - regougar - 04 Pulso.mp3,142336,3.2276,0.2264,226.4,Y,tonal
+267,Inés Terra - regougar - 04 Pulso.mp3,152320,3.454,0.1509,150.9,Y,transient
+268,Inés Terra - regougar - 04 Pulso.mp3,157437,3.57,0.35,350.0,N,tonal
+269,Inés Terra - regougar - 04 Pulso.mp3,178688,4.0519,0.12,120.0,Y,transient
+270,Inés Terra - regougar - 04 Pulso.mp3,182528,4.139,0.06,60.0,Y,transient
+271,Inés Terra - regougar - 04 Pulso.mp3,210432,4.7717,0.06,60.0,Y,transient
+272,Inés Terra - regougar - 04 Pulso.mp3,210432,4.7717,0.1045,104.5,Y,transient
+273,Inés Terra - regougar - 04 Pulso.mp3,213003,4.83,0.35,350.0,N,tonal
+274,Inés Terra - regougar - 04 Pulso.mp3,219648,4.9807,0.06,60.0,Y,transient
+275,Inés Terra - regougar - 04 Pulso.mp3,222264,5.04,0.35,350.0,N,tonal
+276,Inés Terra - regougar - 04 Pulso.mp3,269824,6.1185,0.06,60.0,Y,transient
+277,Inés Terra - regougar - 04 Pulso.mp3,269824,6.1185,0.12,120.0,Y,transient
+278,Inés Terra - regougar - 04 Pulso.mp3,269824,6.1185,0.18,180.0,Y,transient
+279,Inés Terra - regougar - 04 Pulso.mp3,275200,6.2404,0.06,60.0,Y,transient
+280,Inés Terra - regougar - 04 Pulso.mp3,275200,6.2404,0.12,120.0,Y,transient
+281,Inés Terra - regougar - 04 Pulso.mp3,275200,6.2404,0.18,180.0,Y,transient
+282,Inés Terra - regougar - 04 Pulso.mp3,278016,6.3042,0.06,60.0,Y,transient
+283,Inés Terra - regougar - 04 Pulso.mp3,278016,6.3042,0.0813,81.3,Y,transient
+284,Inés Terra - regougar - 04 Pulso.mp3,278016,6.3042,0.12,120.0,Y,transient
+285,Inés Terra - regougar - 04 Pulso.mp3,281600,6.3855,0.2844,284.4,Y,transient
+286,Inés Terra - regougar - 04 Pulso.mp3,287091,6.51,0.35,350.0,N,tonal
+287,Inés Terra - regougar - 04 Pulso.mp3,294144,6.6699,0.06,60.0,Y,transient
+288,Inés Terra - regougar - 04 Pulso.mp3,305613,6.93,0.35,350.0,N,tonal
+289,Inés Terra - regougar - 04 Pulso.mp3,305664,6.9312,0.06,60.0,Y,noisy
+290,Inés Terra - regougar - 04 Pulso.mp3,305664,6.9312,0.0639,63.9,Y,noisy
+291,Inés Terra - regougar - 04 Pulso.mp3,362752,8.2257,0.2264,226.4,Y,tonal
+292,Inés Terra - regougar - 04 Pulso.mp3,385536,8.7423,0.06,60.0,Y,transient
+293,Inés Terra - regougar - 04 Pulso.mp3,388962,8.82,0.35,350.0,N,tonal
+294,Inés Terra - regougar - 04 Pulso.mp3,407484,9.24,0.06,60.0,N,noisy
+295,Inés Terra - regougar - 04 Pulso.mp3,407484,9.24,0.12,120.0,N,noisy
+296,Inés Terra - regougar - 04 Pulso.mp3,413658,9.38,0.06,60.0,N,noisy
+297,Inés Terra - regougar - 04 Pulso.mp3,413658,9.38,0.12,120.0,N,noisy
+298,Inés Terra - regougar - 04 Pulso.mp3,428288,9.7117,0.0871,87.1,Y,tonal
+299,Inés Terra - regougar - 04 Pulso.mp3,438354,9.94,0.06,60.0,N,noisy
+300,Inés Terra - regougar - 04 Pulso.mp3,438354,9.94,0.12,120.0,N,noisy
+301,Inés Terra - regougar - 04 Pulso.mp3,448000,10.1587,0.0929,92.9,Y,transient
+302,Inés Terra - regougar - 04 Pulso.mp3,452096,10.2516,0.18,180.0,Y,transient
+303,Inés Terra - regougar - 04 Pulso.mp3,458240,10.3909,0.06,60.0,Y,transient
+304,Inés Terra - regougar - 04 Pulso.mp3,458240,10.3909,0.12,120.0,Y,transient
+305,Inés Terra - regougar - 04 Pulso.mp3,458240,10.3909,0.18,180.0,Y,transient
+306,Inés Terra - regougar - 04 Pulso.mp3,461824,10.4722,0.06,60.0,Y,transient
+307,Inés Terra - regougar - 04 Pulso.mp3,461824,10.4722,0.0987,98.7,Y,transient
+308,Inés Terra - regougar - 04 Pulso.mp3,461824,10.4722,0.18,180.0,Y,transient
+309,Inés Terra - regougar - 04 Pulso.mp3,481572,10.92,0.35,350.0,N,tonal
+310,Inés Terra - regougar - 04 Pulso.mp3,495616,11.2385,0.18,180.0,Y,transient
+311,Inés Terra - regougar - 04 Pulso.mp3,497664,11.2849,0.06,60.0,Y,transient
+312,Inés Terra - regougar - 04 Pulso.mp3,497664,11.2849,0.12,120.0,Y,transient
+313,Inés Terra - regougar - 04 Pulso.mp3,518616,11.76,0.35,350.0,N,tonal
+314,Inés Terra - regougar - 04 Pulso.mp3,521703,11.83,0.18,180.0,N,tonal
+315,Inés Terra - regougar - 04 Pulso.mp3,527877,11.97,0.35,350.0,N,tonal
+316,Inés Terra - regougar - 04 Pulso.mp3,543312,12.32,0.06,60.0,N,noisy
+317,Inés Terra - regougar - 04 Pulso.mp3,543312,12.32,0.12,120.0,N,noisy
+318,Inés Terra - regougar - 04 Pulso.mp3,559616,12.6897,0.06,60.0,Y,transient
+319,Inés Terra - regougar - 04 Pulso.mp3,559616,12.6897,0.1045,104.5,Y,transient
+320,Inés Terra - regougar - 04 Pulso.mp3,603392,13.6824,0.06,60.0,Y,transient
+321,Inés Terra - regougar - 04 Pulso.mp3,609792,13.8275,0.18,180.0,Y,transient
+322,Inés Terra - regougar - 04 Pulso.mp3,617400,14.0,0.06,60.0,N,noisy
+323,Inés Terra - regougar - 04 Pulso.mp3,617400,14.0,0.12,120.0,N,noisy
+324,Inés Terra - regougar - 04 Pulso.mp3,623574,14.14,0.06,60.0,N,noisy
+325,Inés Terra - regougar - 04 Pulso.mp3,623574,14.14,0.12,120.0,N,noisy
+326,Inés Terra - regougar - 04 Pulso.mp3,633344,14.3615,0.06,60.0,Y,noisy
+327,Inés Terra - regougar - 04 Pulso.mp3,649472,14.7273,0.1103,110.3,Y,transient
+328,Inés Terra - regougar - 04 Pulso.mp3,654336,14.8376,0.06,60.0,Y,transient
+329,Inés Terra - regougar - 04 Pulso.mp3,673792,15.2787,0.18,180.0,Y,transient
+330,Inés Terra - regougar - 04 Pulso.mp3,677888,15.3716,0.12,120.0,Y,transient
+331,Inés Terra - regougar - 04 Pulso.mp3,677888,15.3716,0.1625,162.5,Y,transient
+332,Inés Terra - regougar - 04 Pulso.mp3,705536,15.9985,0.238,238.0,Y,tonal
+333,Inés Terra - regougar - 04 Pulso.mp3,705536,15.9985,0.06,60.0,Y,noisy
+334,Inés Terra - regougar - 04 Pulso.mp3,722358,16.38,0.06,60.0,N,noisy
+335,Inés Terra - regougar - 04 Pulso.mp3,722358,16.38,0.12,120.0,N,noisy
+336,Inés Terra - regougar - 04 Pulso.mp3,743936,16.8693,0.267,267.0,Y,transient
+337,Inés Terra - regougar - 04 Pulso.mp3,759402,17.22,0.35,350.0,N,tonal
+338,Inés Terra - regougar - 04 Pulso.mp3,771072,17.4846,0.06,60.0,Y,transient
+339,Inés Terra - regougar - 04 Pulso.mp3,796446,18.06,0.35,350.0,N,tonal
+340,Inés Terra - regougar - 04 Pulso.mp3,798976,18.1174,0.209,209.0,Y,tonal
+341,Inés Terra - regougar - 04 Pulso.mp3,808192,18.3263,0.18,180.0,Y,transient
+342,Inés Terra - regougar - 04 Pulso.mp3,812288,18.4192,0.06,60.0,Y,transient
+343,Inés Terra - regougar - 04 Pulso.mp3,812288,18.4192,0.0987,98.7,Y,transient
+344,Inés Terra - regougar - 04 Pulso.mp3,845312,19.1681,0.0929,92.9,Y,transient
+345,Inés Terra - regougar - 04 Pulso.mp3,849408,19.261,0.06,60.0,Y,noisy
+346,Inés Terra - regougar - 04 Pulso.mp3,865536,19.6267,0.06,60.0,Y,transient
+347,Inés Terra - regougar - 04 Pulso.mp3,865536,19.6267,0.18,180.0,Y,transient
+348,Inés Terra - regougar - 04 Pulso.mp3,879795,19.95,0.35,350.0,N,tonal
+349,Inés Terra - regougar - 04 Pulso.mp3,885969,20.09,0.18,180.0,N,tonal
+350,Inés Terra - regougar - 04 Pulso.mp3,889056,20.16,0.35,350.0,N,tonal
+351,Inés Terra - regougar - 04 Pulso.mp3,937216,21.2521,0.06,60.0,Y,transient
+352,Inés Terra - regougar - 04 Pulso.mp3,969728,21.9893,0.06,60.0,Y,noisy
+353,Inés Terra - regougar - 04 Pulso.mp3,981666,22.26,0.35,350.0,N,tonal
+354,Inés Terra - regougar - 04 Pulso.mp3,981666,22.26,0.06,60.0,N,noisy
+355,Inés Terra - regougar - 04 Pulso.mp3,990927,22.47,0.35,350.0,N,tonal
+356,Inés Terra - regougar - 04 Pulso.mp3,1018710,23.1,0.06,60.0,N,noisy
+357,Inés Terra - regougar - 04 Pulso.mp3,1018710,23.1,0.12,120.0,N,noisy
+358,Inés Terra - regougar - 04 Pulso.mp3,1043712,23.6669,0.06,60.0,Y,transient
+359,Inés Terra - regougar - 04 Pulso.mp3,1043712,23.6669,0.12,120.0,Y,transient
+360,Inés Terra - regougar - 04 Pulso.mp3,1043712,23.6669,0.18,180.0,Y,transient
+361,Inés Terra - regougar - 04 Pulso.mp3,1046272,23.725,0.06,60.0,Y,transient
+362,Inés Terra - regougar - 04 Pulso.mp3,1046272,23.725,0.0697,69.7,Y,transient
+363,Inés Terra - regougar - 04 Pulso.mp3,1046272,23.725,0.12,120.0,Y,transient
+364,Inés Terra - regougar - 04 Pulso.mp3,1065015,24.15,0.35,350.0,N,tonal
+365,Inés Terra - regougar - 04 Pulso.mp3,1068102,24.22,0.18,180.0,N,tonal
+366,Inés Terra - regougar - 04 Pulso.mp3,1076480,24.41,0.06,60.0,Y,transient
+367,Inés Terra - regougar - 04 Pulso.mp3,1127680,25.571,0.06,60.0,Y,noisy
+368,Inés Terra - regougar - 04 Pulso.mp3,1142190,25.9,0.06,60.0,N,noisy
+369,Inés Terra - regougar - 04 Pulso.mp3,1173060,26.6,0.06,60.0,N,noisy
+370,Inés Terra - regougar - 04 Pulso.mp3,1189376,26.97,0.12,120.0,Y,noisy
+371,Inés Terra - regougar - 04 Pulso.mp3,1191582,27.02,0.06,60.0,N,noisy
+372,Inés Terra - regougar - 04 Pulso.mp3,1191582,27.02,0.12,120.0,N,noisy
+373,Inés Terra - regougar - 04 Pulso.mp3,1197756,27.16,0.06,60.0,N,noisy
+374,Inés Terra - regougar - 04 Pulso.mp3,1218816,27.6376,0.2902,290.2,Y,transient
+375,Inés Terra - regougar - 04 Pulso.mp3,1231616,27.9278,0.0871,87.1,Y,noisy
+376,Inés Terra - regougar - 04 Pulso.mp3,1231616,27.9278,0.12,120.0,Y,noisy
+377,Inés Terra - regougar - 04 Pulso.mp3,1234800,28.0,0.06,60.0,N,noisy
+378,Inés Terra - regougar - 04 Pulso.mp3,1234800,28.0,0.12,120.0,N,noisy
+379,Inés Terra - regougar - 04 Pulso.mp3,1235456,28.0149,0.06,60.0,Y,noisy
+380,Inés Terra - regougar - 04 Pulso.mp3,1235456,28.0149,0.12,120.0,Y,noisy
+381,Inés Terra - regougar - 04 Pulso.mp3,1333760,30.244,0.06,60.0,Y,transient
+382,Inés Terra - regougar - 04 Pulso.mp3,1333760,30.244,0.12,120.0,Y,transient
+383,Inés Terra - regougar - 04 Pulso.mp3,1333760,30.244,0.1625,162.5,Y,transient
+384,Inés Terra - regougar - 04 Pulso.mp3,1340928,30.4065,0.1393,139.3,Y,tonal
+385,Inés Terra - regougar - 04 Pulso.mp3,1352106,30.66,0.35,350.0,N,tonal
+386,Inés Terra - regougar - 04 Pulso.mp3,1379072,31.2715,0.18,180.0,Y,transient
+387,Inés Terra - regougar - 04 Pulso.mp3,1379072,31.2715,0.267,267.0,Y,transient
+388,Inés Terra - regougar - 04 Pulso.mp3,1453056,32.9491,0.0929,92.9,Y,transient
+389,Inés Terra - regougar - 04 Pulso.mp3,1453056,32.9491,0.18,180.0,Y,transient
+390,Inés Terra - regougar - 04 Pulso.mp3,1457152,33.042,0.06,60.0,Y,transient
+391,Inés Terra - regougar - 04 Pulso.mp3,1457152,33.042,0.12,120.0,Y,transient
+392,Inés Terra - regougar - 04 Pulso.mp3,1457152,33.042,0.18,180.0,Y,transient
+393,Inés Terra - regougar - 04 Pulso.mp3,1462528,33.1639,0.12,120.0,Y,transient
+394,Inés Terra - regougar - 04 Pulso.mp3,1462528,33.1639,0.18,180.0,Y,transient
+395,Inés Terra - regougar - 04 Pulso.mp3,1464576,33.2103,0.1103,110.3,Y,transient
+396,Inés Terra - regougar - 04 Pulso.mp3,1464576,33.2103,0.18,180.0,Y,transient
+397,Inés Terra - regougar - 04 Pulso.mp3,1503232,34.0869,0.06,60.0,Y,transient
+398,Inés Terra - regougar - 04 Pulso.mp3,1503232,34.0869,0.0929,92.9,Y,transient
+399,Inés Terra - regougar - 04 Pulso.mp3,1533440,34.7719,0.06,60.0,Y,transient
+400,Inés Terra - regougar - 04 Pulso.mp3,1548288,35.1086,0.2438,243.8,Y,tonal
+401,Inés Terra - regougar - 04 Pulso.mp3,1580544,35.84,0.06,60.0,N,noisy
+402,Inés Terra - regougar - 04 Pulso.mp3,1580544,35.84,0.12,120.0,N,noisy
+403,Inés Terra - regougar - 04 Pulso.mp3,1586718,35.98,0.06,60.0,N,noisy
+404,Inés Terra - regougar - 04 Pulso.mp3,1586718,35.98,0.12,120.0,N,noisy
+405,Inés Terra - regougar - 04 Pulso.mp3,1592892,36.12,0.06,60.0,N,noisy
+406,Inés Terra - regougar - 04 Pulso.mp3,1592892,36.12,0.12,120.0,N,noisy
+407,Inés Terra - regougar - 04 Pulso.mp3,1611414,36.54,0.06,60.0,N,noisy
+408,Inés Terra - regougar - 04 Pulso.mp3,1616128,36.6469,0.06,60.0,Y,transient
+409,Inés Terra - regougar - 04 Pulso.mp3,1616128,36.6469,0.1509,150.9,Y,transient
+410,Inés Terra - regougar - 04 Pulso.mp3,1622784,36.7978,0.06,60.0,Y,transient
+411,Inés Terra - regougar - 04 Pulso.mp3,1622784,36.7978,0.12,120.0,Y,transient
+412,Inés Terra - regougar - 04 Pulso.mp3,1628672,36.9313,0.2322,232.2,Y,tonal
+413,Inés Terra - regougar - 04 Pulso.mp3,1638912,37.1635,0.1974,197.4,Y,tonal
+414,Inés Terra - regougar - 04 Pulso.mp3,1647616,37.3609,0.06,60.0,Y,transient
+415,Inés Terra - regougar - 04 Pulso.mp3,1654272,37.5118,0.0929,92.9,Y,transient
+416,Inés Terra - regougar - 04 Pulso.mp3,1666980,37.8,0.35,350.0,N,tonal
+417,Inés Terra - regougar - 04 Pulso.mp3,1682688,38.1562,0.06,60.0,Y,transient
+418,Inés Terra - regougar - 04 Pulso.mp3,1682688,38.1562,0.12,120.0,Y,transient
+419,Inés Terra - regougar - 04 Pulso.mp3,1686528,38.2433,0.2206,220.6,Y,tonal
+420,Inés Terra - regougar - 04 Pulso.mp3,1698560,38.5161,0.06,60.0,Y,noisy
+421,Inés Terra - regougar - 04 Pulso.mp3,1698560,38.5161,0.12,120.0,Y,noisy
+422,Inés Terra - regougar - 04 Pulso.mp3,1704024,38.64,0.06,60.0,N,noisy
+423,Inés Terra - regougar - 04 Pulso.mp3,1704024,38.64,0.12,120.0,N,noisy
+424,Inés Terra - regougar - 04 Pulso.mp3,1710198,38.78,0.06,60.0,N,noisy
+425,Inés Terra - regougar - 04 Pulso.mp3,1734656,39.3346,0.06,60.0,Y,transient
+426,Inés Terra - regougar - 04 Pulso.mp3,1734656,39.3346,0.12,120.0,Y,transient
+427,Inés Terra - regougar - 04 Pulso.mp3,1734656,39.3346,0.18,180.0,Y,transient
+428,Inés Terra - regougar - 04 Pulso.mp3,1738496,39.4217,0.18,180.0,Y,transient
+429,Inés Terra - regougar - 04 Pulso.mp3,1751808,39.7235,0.2264,226.4,Y,tonal
+430,Inés Terra - regougar - 04 Pulso.mp3,1761792,39.9499,0.12,120.0,Y,transient
+431,Inés Terra - regougar - 04 Pulso.mp3,1761792,39.9499,0.18,180.0,Y,transient
+432,Inés Terra - regougar - 04 Pulso.mp3,1761792,39.9499,0.06,60.0,Y,noisy
+433,Inés Terra - regougar - 04 Pulso.mp3,1765376,40.0312,0.06,60.0,Y,transient
+434,Inés Terra - regougar - 04 Pulso.mp3,1765376,40.0312,0.12,120.0,Y,transient
+435,Inés Terra - regougar - 04 Pulso.mp3,1769216,40.1183,0.06,60.0,Y,transient
+436,Inés Terra - regougar - 04 Pulso.mp3,1792768,40.6523,0.06,60.0,Y,transient
+437,Inés Terra - regougar - 04 Pulso.mp3,1792768,40.6523,0.12,120.0,Y,transient
+438,Inés Terra - regougar - 04 Pulso.mp3,1822208,41.3199,0.209,209.0,Y,tonal
+439,Inés Terra - regougar - 04 Pulso.mp3,1824417,41.37,0.35,350.0,N,tonal
+440,Inés Terra - regougar - 04 Pulso.mp3,1838592,41.6914,0.1509,150.9,Y,transient
+441,Inés Terra - regougar - 04 Pulso.mp3,1845248,41.8424,0.06,60.0,Y,transient
+442,Inés Terra - regougar - 04 Pulso.mp3,1845248,41.8424,0.18,180.0,Y,transient
+443,Inés Terra - regougar - 04 Pulso.mp3,1852928,42.0165,0.12,120.0,Y,transient
+444,Inés Terra - regougar - 04 Pulso.mp3,1852928,42.0165,0.18,180.0,Y,transient
+445,Inés Terra - regougar - 04 Pulso.mp3,1859072,42.1558,0.06,60.0,Y,transient
+446,Inés Terra - regougar - 04 Pulso.mp3,1874432,42.5041,0.06,60.0,Y,transient
+447,Inés Terra - regougar - 04 Pulso.mp3,1878016,42.5854,0.06,60.0,Y,transient
+448,Inés Terra - regougar - 04 Pulso.mp3,1885696,42.7595,0.12,120.0,Y,transient
+449,Inés Terra - regougar - 04 Pulso.mp3,1885696,42.7595,0.18,180.0,Y,transient
+450,Inés Terra - regougar - 04 Pulso.mp3,1906432,43.2298,0.2902,290.2,Y,transient
+451,Inés Terra - regougar - 04 Pulso.mp3,1907766,43.26,0.35,350.0,N,tonal
+452,Inés Terra - regougar - 04 Pulso.mp3,1910853,43.33,0.18,180.0,N,tonal
+453,Inés Terra - regougar - 04 Pulso.mp3,1919232,43.52,0.12,120.0,Y,transient
+454,Inés Terra - regougar - 04 Pulso.mp3,1975680,44.8,0.06,60.0,N,noisy
+455,Inés Terra - regougar - 04 Pulso.mp3,1994202,45.22,0.12,120.0,N,noisy
+456,Inés Terra - regougar - 04 Pulso.mp3,2000376,45.36,0.35,350.0,N,tonal
+457,Inés Terra - regougar - 04 Pulso.mp3,2009637,45.57,0.18,180.0,N,tonal
+458,Inés Terra - regougar - 04 Pulso.mp3,2009637,45.57,0.35,350.0,N,tonal
+459,Inés Terra - regougar - 04 Pulso.mp3,2028159,45.99,0.35,350.0,N,tonal
+460,Inés Terra - regougar - 04 Pulso.mp3,2031360,46.0626,0.12,120.0,Y,transient
+461,Inés Terra - regougar - 04 Pulso.mp3,2034944,46.1439,0.209,209.0,Y,tonal
+462,Inés Terra - regougar - 04 Pulso.mp3,2037420,46.2,0.35,350.0,N,tonal
+463,Inés Terra - regougar - 04 Pulso.mp3,2050304,46.4922,0.18,180.0,Y,transient
+464,Inés Terra - regougar - 04 Pulso.mp3,2108416,47.8099,0.1625,162.5,Y,transient
+465,Inés Terra - regougar - 04 Pulso.mp3,2115584,47.9724,0.0929,92.9,Y,transient
+466,Inés Terra - regougar - 04 Pulso.mp3,2119680,48.0653,0.267,267.0,Y,transient
+467,Inés Terra - regougar - 04 Pulso.mp3,2131456,48.3323,0.06,60.0,Y,transient
+468,Inés Terra - regougar - 04 Pulso.mp3,2135296,48.4194,0.1393,139.3,Y,tonal
+469,Inés Terra - regougar - 04 Pulso.mp3,2143744,48.611,0.06,60.0,Y,transient
+470,Inés Terra - regougar - 04 Pulso.mp3,2148552,48.72,0.35,350.0,N,tonal
+471,Inés Terra - regougar - 04 Pulso.mp3,2155264,48.8722,0.2786,278.6,Y,transient
+472,Inés Terra - regougar - 04 Pulso.mp3,2176512,49.354,0.0987,98.7,Y,transient
+473,Inés Terra - regougar - 04 Pulso.mp3,2184704,49.5398,0.0987,98.7,Y,transient
+474,Inés Terra - regougar - 04 Pulso.mp3,2189056,49.6385,0.0987,98.7,Y,transient
+475,Inés Terra - regougar - 04 Pulso.mp3,2221568,50.3757,0.18,180.0,Y,transient
+476,Inés Terra - regougar - 04 Pulso.mp3,2230784,50.5847,0.06,60.0,Y,transient
+477,Inés Terra - regougar - 04 Pulso.mp3,2234988,50.68,0.06,60.0,N,noisy
+478,Inés Terra - regougar - 04 Pulso.mp3,2252288,51.0723,0.2322,232.2,Y,tonal
+479,Inés Terra - regougar - 04 Pulso.mp3,2269440,51.4612,0.06,60.0,Y,noisy
+480,Inés Terra - regougar - 04 Pulso.mp3,2269440,51.4612,0.12,120.0,Y,noisy
+481,Inés Terra - regougar - 04 Pulso.mp3,2272032,51.52,0.06,60.0,N,noisy
+482,Inés Terra - regougar - 04 Pulso.mp3,2272032,51.52,0.12,120.0,N,noisy
+483,Inés Terra - regougar - 04 Pulso.mp3,2278206,51.66,0.06,60.0,N,noisy
+484,Inés Terra - regougar - 04 Pulso.mp3,2319616,52.599,0.1219,121.9,Y,transient
+485,Inés Terra - regougar - 04 Pulso.mp3,2319616,52.599,0.18,180.0,Y,transient
+486,Inés Terra - regougar - 04 Pulso.mp3,2355456,53.4117,0.12,120.0,Y,noisy
+487,Inés Terra - regougar - 04 Pulso.mp3,2380077,53.97,0.35,350.0,N,tonal
+488,Inés Terra - regougar - 04 Pulso.mp3,2435072,55.2171,0.06,60.0,Y,transient
+489,Inés Terra - regougar - 04 Pulso.mp3,2451078,55.58,0.06,60.0,N,noisy
+490,Inés Terra - regougar - 04 Pulso.mp3,2451078,55.58,0.12,120.0,N,noisy
+491,Inés Terra - regougar - 04 Pulso.mp3,2463426,55.86,0.35,350.0,N,tonal
+492,Inés Terra - regougar - 04 Pulso.mp3,2494296,56.56,0.06,60.0,N,noisy
+493,Inés Terra - regougar - 04 Pulso.mp3,2494296,56.56,0.12,120.0,N,noisy
+494,Inés Terra - regougar - 04 Pulso.mp3,2512818,56.98,0.12,120.0,N,noisy
+495,Inés Terra - regougar - 04 Pulso.mp3,2522112,57.1907,0.18,180.0,Y,transient
+496,Inés Terra - regougar - 04 Pulso.mp3,2554624,57.928,0.06,60.0,Y,transient
+497,Inés Terra - regougar - 04 Pulso.mp3,2554624,57.928,0.12,120.0,Y,transient
+498,Inés Terra - regougar - 04 Pulso.mp3,2554624,57.928,0.18,180.0,Y,transient
+499,Inés Terra - regougar - 04 Pulso.mp3,2574558,58.38,0.06,60.0,N,noisy
+500,Inés Terra - regougar - 04 Pulso.mp3,2592512,58.7871,0.18,180.0,Y,transient
+501,Inés Terra - regougar - 04 Pulso.mp3,2598912,58.9322,0.06,60.0,Y,transient
+502,Inés Terra - regougar - 04 Pulso.mp3,2631936,59.6811,0.2496,249.6,Y,tonal
+503,Inés Terra - regougar - 04 Pulso.mp3,2666496,60.4648,0.0929,92.9,Y,transient
+504,Inés Terra - regougar - 04 Pulso.mp3,2667168,60.48,0.06,60.0,N,noisy
+505,Inés Terra - regougar - 04 Pulso.mp3,2679808,60.7666,0.06,60.0,Y,transient
+506,Inés Terra - regougar - 04 Pulso.mp3,2694951,61.11,0.35,350.0,N,tonal
+507,Inés Terra - regougar - 04 Pulso.mp3,2699520,61.2136,0.0987,98.7,Y,transient
+508,Inés Terra - regougar - 04 Pulso.mp3,2703872,61.3123,0.2322,232.2,Y,tonal
+509,Inés Terra - regougar - 04 Pulso.mp3,2714112,61.5445,0.06,60.0,Y,transient
+510,Inés Terra - regougar - 04 Pulso.mp3,2722734,61.74,0.35,350.0,N,tonal
+511,Inés Terra - regougar - 04 Pulso.mp3,2738432,62.096,0.1916,191.6,Y,tonal
+512,Inés Terra - regougar - 04 Pulso.mp3,2762752,62.6474,0.06,60.0,Y,transient
+513,Inés Terra - regougar - 04 Pulso.mp3,2762752,62.6474,0.12,120.0,Y,transient
+514,Inés Terra - regougar - 04 Pulso.mp3,2762752,62.6474,0.18,180.0,Y,transient
+515,Inés Terra - regougar - 04 Pulso.mp3,2796822,63.42,0.35,350.0,N,tonal
+516,Inés Terra - regougar - 04 Pulso.mp3,2827692,64.12,0.12,120.0,N,noisy
+517,Inés Terra - regougar - 04 Pulso.mp3,2832640,64.2322,0.267,267.0,Y,transient
+518,Inés Terra - regougar - 04 Pulso.mp3,2832640,64.2322,0.06,60.0,Y,noisy
+519,Inés Terra - regougar - 04 Pulso.mp3,2832640,64.2322,0.12,120.0,Y,noisy
+520,Inés Terra - regougar - 04 Pulso.mp3,2840040,64.4,0.06,60.0,N,noisy
+521,Inés Terra - regougar - 04 Pulso.mp3,2844416,64.4992,0.06,60.0,Y,transient
+522,Inés Terra - regougar - 04 Pulso.mp3,2870910,65.1,0.35,350.0,N,tonal
+523,Inés Terra - regougar - 04 Pulso.mp3,2913792,66.0724,0.06,60.0,Y,noisy
+524,Inés Terra - regougar - 04 Pulso.mp3,2913792,66.0724,0.12,120.0,Y,noisy
+525,Inés Terra - regougar - 04 Pulso.mp3,2914128,66.08,0.06,60.0,N,noisy
+526,Inés Terra - regougar - 04 Pulso.mp3,2914128,66.08,0.12,120.0,N,noisy
+527,Inés Terra - regougar - 04 Pulso.mp3,2920302,66.22,0.06,60.0,N,noisy
+528,Inés Terra - regougar - 04 Pulso.mp3,2920302,66.22,0.12,120.0,N,noisy
+529,Inés Terra - regougar - 04 Pulso.mp3,2970624,67.3611,0.1045,104.5,Y,transient
+530,Inés Terra - regougar - 04 Pulso.mp3,2981120,67.5991,0.06,60.0,Y,transient
+531,Inés Terra - regougar - 04 Pulso.mp3,2981120,67.5991,0.1567,156.7,Y,transient
+532,Inés Terra - regougar - 04 Pulso.mp3,2993408,67.8777,0.18,180.0,Y,transient
+533,Inés Terra - regougar - 04 Pulso.mp3,2997760,67.9764,0.06,60.0,Y,transient
+534,Inés Terra - regougar - 04 Pulso.mp3,2997760,67.9764,0.12,120.0,Y,transient
+535,Inés Terra - regougar - 04 Pulso.mp3,3019086,68.46,0.06,60.0,N,noisy
+536,Inés Terra - regougar - 04 Pulso.mp3,3019086,68.46,0.12,120.0,N,noisy
+537,Inés Terra - regougar - 04 Pulso.mp3,3021312,68.5105,0.06,60.0,Y,noisy
+538,Inés Terra - regougar - 04 Pulso.mp3,3021312,68.5105,0.12,120.0,Y,noisy
+539,Inés Terra - regougar - 04 Pulso.mp3,3025260,68.6,0.06,60.0,N,noisy
+540,Inés Terra - regougar - 04 Pulso.mp3,3037608,68.88,0.35,350.0,N,tonal
+541,Inés Terra - regougar - 04 Pulso.mp3,3067904,69.567,0.06,60.0,Y,transient
+542,Inés Terra - regougar - 04 Pulso.mp3,3093174,70.14,0.06,60.0,N,noisy
+543,Inés Terra - regougar - 04 Pulso.mp3,3093174,70.14,0.12,120.0,N,noisy
+544,Inés Terra - regougar - 04 Pulso.mp3,3099348,70.28,0.06,60.0,N,noisy
+545,Inés Terra - regougar - 04 Pulso.mp3,3101184,70.3216,0.06,60.0,Y,transient
+546,Inés Terra - regougar - 04 Pulso.mp3,3155968,71.5639,0.0929,92.9,Y,transient
+547,Inés Terra - regougar - 04 Pulso.mp3,3155968,71.5639,0.18,180.0,Y,transient
+548,Inés Terra - regougar - 04 Pulso.mp3,3160064,71.6568,0.06,60.0,Y,transient
+549,Inés Terra - regougar - 04 Pulso.mp3,3160064,71.6568,0.12,120.0,Y,transient
+550,Inés Terra - regougar - 04 Pulso.mp3,3160064,71.6568,0.18,180.0,Y,transient
+551,Inés Terra - regougar - 04 Pulso.mp3,3167262,71.82,0.12,120.0,N,noisy
+552,Inés Terra - regougar - 04 Pulso.mp3,3221504,73.05,0.2961,296.1,Y,transient
+553,Inés Terra - regougar - 04 Pulso.mp3,3244032,73.5608,0.0639,63.9,Y,noisy
+554,Inés Terra - regougar - 04 Pulso.mp3,3255808,73.8278,0.06,60.0,Y,noisy
+555,Inés Terra - regougar - 04 Pulso.mp3,3255808,73.8278,0.12,120.0,Y,noisy
+556,Inés Terra - regougar - 04 Pulso.mp3,3259872,73.92,0.06,60.0,N,noisy
+557,Inés Terra - regougar - 04 Pulso.mp3,3264768,74.031,0.06,60.0,Y,transient
+558,Inés Terra - regougar - 04 Pulso.mp3,3266816,74.0775,0.06,60.0,Y,transient
+559,Inés Terra - regougar - 04 Pulso.mp3,3266816,74.0775,0.2612,261.2,Y,tonal
+560,Inés Terra - regougar - 04 Pulso.mp3,3278336,74.3387,0.18,180.0,Y,transient
+561,Inés Terra - regougar - 04 Pulso.mp3,3283712,74.4606,0.06,60.0,Y,transient
+562,Inés Terra - regougar - 04 Pulso.mp3,3283712,74.4606,0.12,120.0,Y,transient
+563,Inés Terra - regougar - 04 Pulso.mp3,3306177,74.97,0.35,350.0,N,tonal
+564,Inés Terra - regougar - 04 Pulso.mp3,3333960,75.6,0.06,60.0,N,noisy
+565,Inés Terra - regougar - 04 Pulso.mp3,3361280,76.2195,0.0929,92.9,Y,transient
+566,Inés Terra - regougar - 04 Pulso.mp3,3380265,76.65,0.35,350.0,N,tonal
+567,Inés Terra - regougar - 04 Pulso.mp3,3395700,77.0,0.12,120.0,N,noisy
+568,Inés Terra - regougar - 04 Pulso.mp3,3397888,77.0496,0.06,60.0,Y,noisy
+569,Inés Terra - regougar - 04 Pulso.mp3,3397888,77.0496,0.12,120.0,Y,noisy
+570,Inés Terra - regougar - 04 Pulso.mp3,3401874,77.14,0.06,60.0,N,noisy
+571,Inés Terra - regougar - 04 Pulso.mp3,3401874,77.14,0.12,120.0,N,noisy
+572,Inés Terra - regougar - 04 Pulso.mp3,3408048,77.28,0.35,350.0,N,tonal
+573,Inés Terra - regougar - 04 Pulso.mp3,3432744,77.84,0.06,60.0,N,noisy
+574,Inés Terra - regougar - 04 Pulso.mp3,3463614,78.54,0.06,60.0,N,noisy
+575,Inés Terra - regougar - 04 Pulso.mp3,3463614,78.54,0.12,120.0,N,noisy
+576,Inés Terra - regougar - 04 Pulso.mp3,3469788,78.68,0.06,60.0,N,noisy
+577,Inés Terra - regougar - 04 Pulso.mp3,3531528,80.08,0.06,60.0,N,noisy
+578,Inés Terra - regougar - 04 Pulso.mp3,3564800,80.8345,0.12,120.0,Y,noisy
+579,Inés Terra - regougar - 04 Pulso.mp3,3568572,80.92,0.06,60.0,N,noisy
+580,Inés Terra - regougar - 04 Pulso.mp3,3587584,81.3511,0.06,60.0,Y,transient
+581,Inés Terra - regougar - 04 Pulso.mp3,3602529,81.69,0.35,350.0,N,tonal
+582,Inés Terra - regougar - 04 Pulso.mp3,3629312,82.2973,0.1103,110.3,Y,transient
+583,Inés Terra - regougar - 04 Pulso.mp3,3629312,82.2973,0.18,180.0,Y,transient
+584,Inés Terra - regougar - 04 Pulso.mp3,3667200,83.1565,0.06,60.0,Y,transient
+585,Inés Terra - regougar - 04 Pulso.mp3,3667200,83.1565,0.12,120.0,Y,transient
+586,Inés Terra - regougar - 04 Pulso.mp3,3667200,83.1565,0.18,180.0,Y,transient
+587,Inés Terra - regougar - 04 Pulso.mp3,3676672,83.3712,0.06,60.0,Y,noisy
+588,Inés Terra - regougar - 04 Pulso.mp3,3716748,84.28,0.06,60.0,N,noisy
+589,Inés Terra - regougar - 04 Pulso.mp3,3729920,84.5787,0.1045,104.5,Y,transient
+590,Inés Terra - regougar - 04 Pulso.mp3,3741444,84.84,0.06,60.0,N,noisy
+591,Inés Terra - regougar - 04 Pulso.mp3,3741444,84.84,0.12,120.0,N,noisy
+592,Inés Terra - regougar - 04 Pulso.mp3,3742208,84.8573,0.06,60.0,Y,noisy
+593,Inés Terra - regougar - 04 Pulso.mp3,3742208,84.8573,0.0755,75.5,Y,noisy
+594,Inés Terra - regougar - 04 Pulso.mp3,3754240,85.1302,0.209,209.0,Y,tonal
+595,Inés Terra - regougar - 04 Pulso.mp3,3763456,85.3391,0.1683,168.3,Y,transient
+596,Inés Terra - regougar - 04 Pulso.mp3,3770880,85.5075,0.18,180.0,Y,transient
+597,Inés Terra - regougar - 04 Pulso.mp3,3787749,85.89,0.35,350.0,N,tonal
+598,Inés Terra - regougar - 04 Pulso.mp3,3797010,86.1,0.35,350.0,N,tonal
+599,Inés Terra - regougar - 04 Pulso.mp3,3823872,86.7091,0.2206,220.6,Y,tonal
+600,Inés Terra - regougar - 04 Pulso.mp3,3834054,86.94,0.35,350.0,N,tonal
+601,Inés Terra - regougar - 04 Pulso.mp3,3862528,87.5857,0.06,60.0,Y,transient
+602,Inés Terra - regougar - 04 Pulso.mp3,3864832,87.6379,0.18,180.0,Y,transient
+603,Inés Terra - regougar - 04 Pulso.mp3,3870976,87.7772,0.06,60.0,Y,transient
+604,Inés Terra - regougar - 04 Pulso.mp3,3889620,88.2,0.06,60.0,N,noisy
+605,Inés Terra - regougar - 04 Pulso.mp3,3895794,88.34,0.06,60.0,N,noisy
+606,Inés Terra - regougar - 04 Pulso.mp3,3905280,88.5551,0.06,60.0,Y,noisy
+607,Inés Terra - regougar - 04 Pulso.mp3,3905280,88.5551,0.12,120.0,Y,noisy
+608,Inés Terra - regougar - 04 Pulso.mp3,3908142,88.62,0.06,60.0,N,noisy
+609,Inés Terra - regougar - 04 Pulso.mp3,3908142,88.62,0.12,120.0,N,noisy
+610,Inés Terra - regougar - 04 Pulso.mp3,3926664,89.04,0.06,60.0,N,noisy
+611,Inés Terra - regougar - 04 Pulso.mp3,3932838,89.18,0.06,60.0,N,noisy
+612,Inés Terra - regougar - 04 Pulso.mp3,3932838,89.18,0.12,120.0,N,noisy
+613,Inés Terra - regougar - 04 Pulso.mp3,3937024,89.2749,0.06,60.0,Y,noisy
+614,Inés Terra - regougar - 04 Pulso.mp3,3945186,89.46,0.35,350.0,N,tonal
+615,Inés Terra - regougar - 04 Pulso.mp3,3954447,89.67,0.35,350.0,N,tonal
+616,Inés Terra - regougar - 04 Pulso.mp3,3960621,89.81,0.18,180.0,N,tonal
+617,Inés Terra - regougar - 04 Pulso.mp3,3976056,90.16,0.06,60.0,N,noisy
+618,Inés Terra - regougar - 04 Pulso.mp3,3982230,90.3,0.12,120.0,N,noisy
+619,Inés Terra - regougar - 04 Pulso.mp3,3988404,90.44,0.06,60.0,N,noisy
+620,Inés Terra - regougar - 04 Pulso.mp3,3994368,90.5752,0.18,180.0,Y,transient
+621,Inés Terra - regougar - 04 Pulso.mp3,3994368,90.5752,0.12,120.0,Y,noisy
+622,Inés Terra - regougar - 04 Pulso.mp3,3994578,90.58,0.06,60.0,N,noisy
+623,Inés Terra - regougar - 04 Pulso.mp3,4000752,90.72,0.06,60.0,N,noisy
+624,Inés Terra - regougar - 04 Pulso.mp3,4000752,90.72,0.12,120.0,N,noisy
+625,Inés Terra - regougar - 04 Pulso.mp3,4006926,90.86,0.06,60.0,N,noisy
+626,Inés Terra - regougar - 04 Pulso.mp3,4006926,90.86,0.12,120.0,N,noisy
+627,Inés Terra - regougar - 04 Pulso.mp3,4033536,91.4634,0.06,60.0,Y,transient
+628,Inés Terra - regougar - 04 Pulso.mp3,4033536,91.4634,0.0987,98.7,Y,transient
+629,Inés Terra - regougar - 04 Pulso.mp3,4033536,91.4634,0.18,180.0,Y,transient
+630,Inés Terra - regougar - 04 Pulso.mp3,4040448,91.6201,0.1509,150.9,Y,transient
+631,Inés Terra - regougar - 04 Pulso.mp3,4079104,92.4967,0.06,60.0,Y,transient
+632,Inés Terra - regougar - 04 Pulso.mp3,4097024,92.903,0.3135,313.5,Y,transient
+633,Inés Terra - regougar - 04 Pulso.mp3,4114432,93.2978,0.12,120.0,Y,noisy
+634,Inés Terra - regougar - 04 Pulso.mp3,4118058,93.38,0.06,60.0,N,noisy
+635,Inés Terra - regougar - 04 Pulso.mp3,4118058,93.38,0.12,120.0,N,noisy
+636,Inés Terra - regougar - 04 Pulso.mp3,4124232,93.52,0.06,60.0,N,noisy
+637,Inés Terra - regougar - 04 Pulso.mp3,4124232,93.52,0.12,120.0,N,noisy
+638,Inés Terra - regougar - 04 Pulso.mp3,4130406,93.66,0.06,60.0,N,noisy
+639,Inés Terra - regougar - 04 Pulso.mp3,4130406,93.66,0.12,120.0,N,noisy
+640,Inés Terra - regougar - 04 Pulso.mp3,4136580,93.8,0.06,60.0,N,noisy
+641,Inés Terra - regougar - 04 Pulso.mp3,4136580,93.8,0.12,120.0,N,noisy
+642,Inés Terra - regougar - 04 Pulso.mp3,4148928,94.08,0.06,60.0,N,noisy
+643,Inés Terra - regougar - 04 Pulso.mp3,4161276,94.36,0.06,60.0,N,noisy
+644,Inés Terra - regougar - 04 Pulso.mp3,4161276,94.36,0.12,120.0,N,noisy
+645,Inés Terra - regougar - 04 Pulso.mp3,4173624,94.64,0.06,60.0,N,noisy
+646,Inés Terra - regougar - 04 Pulso.mp3,4173624,94.64,0.12,120.0,N,noisy
+647,Inés Terra - regougar - 04 Pulso.mp3,4179798,94.78,0.06,60.0,N,noisy
+648,Inés Terra - regougar - 04 Pulso.mp3,4179798,94.78,0.12,120.0,N,noisy
+649,Inés Terra - regougar - 04 Pulso.mp3,4185972,94.92,0.06,60.0,N,noisy
+650,Inés Terra - regougar - 04 Pulso.mp3,4185972,94.92,0.12,120.0,N,noisy
+651,Inés Terra - regougar - 04 Pulso.mp3,4192146,95.06,0.06,60.0,N,noisy
+652,Inés Terra - regougar - 04 Pulso.mp3,4192146,95.06,0.12,120.0,N,noisy
+653,Inés Terra - regougar - 04 Pulso.mp3,4198320,95.2,0.06,60.0,N,noisy
+654,Inés Terra - regougar - 04 Pulso.mp3,4198320,95.2,0.12,120.0,N,noisy
+655,Inés Terra - regougar - 04 Pulso.mp3,4204494,95.34,0.06,60.0,N,noisy
+656,Inés Terra - regougar - 04 Pulso.mp3,4204494,95.34,0.12,120.0,N,noisy
+657,Inés Terra - regougar - 04 Pulso.mp3,4210668,95.48,0.06,60.0,N,noisy
+658,Inés Terra - regougar - 04 Pulso.mp3,4210668,95.48,0.12,120.0,N,noisy
+659,Inés Terra - regougar - 04 Pulso.mp3,4216842,95.62,0.06,60.0,N,noisy
+660,Inés Terra - regougar - 04 Pulso.mp3,4216842,95.62,0.12,120.0,N,noisy
+661,fakeyou_improv_freddies.mp3,0,,0.35,350.0,N,noisy
+662,fakeyou_improv_freddies.mp3,3087,0.07,0.18,180.0,N,noisy
+663,fakeyou_improv_freddies.mp3,6912,0.1567,0.06,60.0,Y,noisy
+664,fakeyou_improv_freddies.mp3,6912,0.1567,0.12,120.0,Y,noisy
+665,fakeyou_improv_freddies.mp3,6912,0.1567,0.0697,69.7,Y,noisy
+666,fakeyou_improv_freddies.mp3,26112,0.5921,0.0871,87.1,Y,tonal
+667,fakeyou_improv_freddies.mp3,29952,0.6792,0.06,60.0,Y,transient
+668,fakeyou_improv_freddies.mp3,29952,0.6792,0.18,180.0,Y,transient
+669,fakeyou_improv_freddies.mp3,41472,0.9404,0.06,60.0,Y,transient
+670,fakeyou_improv_freddies.mp3,43520,0.9868,0.12,120.0,Y,transient
+671,fakeyou_improv_freddies.mp3,46305,1.05,0.35,350.0,N,noisy
+672,fakeyou_improv_freddies.mp3,53504,1.2132,0.06,60.0,Y,transient
+673,fakeyou_improv_freddies.mp3,66048,1.4977,0.0929,92.9,Y,transient
+674,fakeyou_improv_freddies.mp3,66048,1.4977,0.18,180.0,Y,transient
+675,fakeyou_improv_freddies.mp3,72192,1.637,0.18,180.0,Y,transient
+676,fakeyou_improv_freddies.mp3,75776,1.7183,0.06,60.0,Y,transient
+677,fakeyou_improv_freddies.mp3,75776,1.7183,0.12,120.0,Y,transient
+678,fakeyou_improv_freddies.mp3,81152,1.8402,0.12,120.0,Y,transient
+679,fakeyou_improv_freddies.mp3,91648,2.0782,0.06,60.0,Y,transient
+680,fakeyou_improv_freddies.mp3,105728,2.3975,0.06,60.0,Y,transient
+681,fakeyou_improv_freddies.mp3,105728,2.3975,0.12,120.0,Y,transient
+682,fakeyou_improv_freddies.mp3,111616,2.531,0.06,60.0,Y,transient
+683,fakeyou_improv_freddies.mp3,120393,2.73,0.35,350.0,N,noisy
+684,fakeyou_improv_freddies.mp3,120832,2.74,0.06,60.0,Y,transient
+685,fakeyou_improv_freddies.mp3,126464,2.8677,0.06,60.0,Y,transient
+686,fakeyou_improv_freddies.mp3,126464,2.8677,0.12,120.0,Y,transient
+687,fakeyou_improv_freddies.mp3,130560,2.9605,0.0929,92.9,Y,transient
+688,fakeyou_improv_freddies.mp3,149760,3.3959,0.06,60.0,Y,transient
+689,fakeyou_improv_freddies.mp3,149760,3.3959,0.1335,133.5,Y,tonal
+690,fakeyou_improv_freddies.mp3,155648,3.5294,0.0813,81.3,Y,transient
+691,fakeyou_improv_freddies.mp3,159232,3.6107,0.06,60.0,Y,transient
+692,fakeyou_improv_freddies.mp3,159232,3.6107,0.1161,116.1,Y,transient
+693,fakeyou_improv_freddies.mp3,159232,3.6107,0.18,180.0,Y,transient
+694,fakeyou_improv_freddies.mp3,164352,3.7268,0.06,60.0,Y,transient
+695,fakeyou_improv_freddies.mp3,166400,3.7732,0.06,60.0,Y,transient
+696,fakeyou_improv_freddies.mp3,203008,4.6034,0.12,120.0,Y,transient
+697,fakeyou_improv_freddies.mp3,203008,4.6034,0.1683,168.3,Y,transient
+698,fakeyou_improv_freddies.mp3,212992,4.8298,0.06,60.0,Y,transient
+699,fakeyou_improv_freddies.mp3,212992,4.8298,0.0929,92.9,Y,transient
+700,fakeyou_improv_freddies.mp3,217088,4.9226,0.18,180.0,Y,transient
+701,fakeyou_improv_freddies.mp3,219648,4.9807,0.0987,98.7,Y,transient
+702,fakeyou_improv_freddies.mp3,219648,4.9807,0.18,180.0,Y,transient
+703,fakeyou_improv_freddies.mp3,219648,4.9807,0.06,60.0,Y,transient
+704,fakeyou_improv_freddies.mp3,224000,5.0794,0.06,60.0,Y,transient
+705,fakeyou_improv_freddies.mp3,224000,5.0794,0.2728,272.8,Y,transient
+706,fakeyou_improv_freddies.mp3,236032,5.3522,0.06,60.0,Y,transient
+707,fakeyou_improv_freddies.mp3,236032,5.3522,0.0987,98.7,Y,transient
+708,fakeyou_improv_freddies.mp3,236032,5.3522,0.18,180.0,Y,transient
+709,fakeyou_improv_freddies.mp3,240786,5.46,0.35,350.0,N,tonal
+710,fakeyou_improv_freddies.mp3,242944,5.5089,0.2148,214.8,Y,tonal
+711,fakeyou_improv_freddies.mp3,252416,5.7237,0.12,120.0,Y,transient
+712,fakeyou_improv_freddies.mp3,252416,5.7237,0.1509,150.9,Y,transient
+713,fakeyou_improv_freddies.mp3,252416,5.7237,0.18,180.0,Y,transient
+714,fakeyou_improv_freddies.mp3,259072,5.8746,0.0987,98.7,Y,transient
+715,fakeyou_improv_freddies.mp3,263424,5.9733,0.1509,150.9,Y,transient
+716,fakeyou_improv_freddies.mp3,279040,6.3274,0.06,60.0,Y,transient
+717,fakeyou_improv_freddies.mp3,281088,6.3739,0.18,180.0,Y,transient
+718,fakeyou_improv_freddies.mp3,284416,6.4493,0.12,120.0,Y,transient
+719,fakeyou_improv_freddies.mp3,287232,6.5132,0.1045,104.5,Y,transient
+720,fakeyou_improv_freddies.mp3,299520,6.7918,0.12,120.0,Y,transient
+721,fakeyou_improv_freddies.mp3,299520,6.7918,0.1509,150.9,Y,transient
+722,fakeyou_improv_freddies.mp3,306176,6.9428,0.12,120.0,Y,transient
+723,fakeyou_improv_freddies.mp3,312576,7.0879,0.06,60.0,Y,transient
+724,fakeyou_improv_freddies.mp3,312576,7.0879,0.12,120.0,Y,transient
+725,fakeyou_improv_freddies.mp3,312576,7.0879,0.1567,156.7,Y,transient
+726,joan-klee alee_trecho.mp3,15872,0.3599,0.1335,133.5,Y,tonal
+727,joan-klee alee_trecho.mp3,18522,0.42,0.35,350.0,N,tonal
+728,joan-klee alee_trecho.mp3,21760,0.4934,0.0871,87.1,Y,tonal
+729,joan-klee alee_trecho.mp3,27783,0.63,0.35,350.0,N,tonal
+730,joan-klee alee_trecho.mp3,37044,0.84,0.35,350.0,N,tonal
+731,joan-klee alee_trecho.mp3,46305,1.05,0.35,350.0,N,tonal
+732,joan-klee alee_trecho.mp3,55566,1.26,0.35,350.0,N,tonal
+733,joan-klee alee_trecho.mp3,64827,1.47,0.35,350.0,N,tonal
+734,joan-klee alee_trecho.mp3,74088,1.68,0.35,350.0,N,tonal
+735,joan-klee alee_trecho.mp3,83349,1.89,0.35,350.0,N,tonal
+736,joan-klee alee_trecho.mp3,92610,2.1,0.35,350.0,N,tonal
+737,joan-klee alee_trecho.mp3,101871,2.31,0.35,350.0,N,tonal
+738,joan-klee alee_trecho.mp3,111132,2.52,0.35,350.0,N,tonal
+739,joan-klee alee_trecho.mp3,120393,2.73,0.35,350.0,N,tonal
+740,joan-klee alee_trecho.mp3,129654,2.94,0.35,350.0,N,tonal
+741,joan-klee alee_trecho.mp3,138915,3.15,0.35,350.0,N,tonal
+742,joan-klee alee_trecho.mp3,213003,4.83,0.35,350.0,N,tonal
+743,joan-klee alee_trecho.mp3,233216,5.2883,0.2496,249.6,Y,tonal
+744,joan-klee alee_trecho.mp3,342657,7.77,0.35,350.0,N,tonal
+745,joan-klee alee_trecho.mp3,351918,7.98,0.35,350.0,N,tonal
+746,joan-klee alee_trecho.mp3,433408,9.8278,0.18,180.0,Y,transient
+747,joan-klee alee_trecho.mp3,472311,10.71,0.35,350.0,N,tonal
+748,joan-klee alee_trecho.mp3,481572,10.92,0.35,350.0,N,tonal
+749,joan-klee alee_trecho.mp3,486656,11.0353,0.2206,220.6,Y,tonal
+750,joan-klee alee_trecho.mp3,516864,11.7203,0.1451,145.1,Y,tonal
+751,joan-klee alee_trecho.mp3,557568,12.6433,0.2322,232.2,Y,tonal
+752,joan-klee alee_trecho.mp3,629748,14.28,0.35,350.0,N,tonal
+753,joan-klee alee_trecho.mp3,639009,14.49,0.35,350.0,N,tonal
+754,joan-klee alee_trecho.mp3,647168,14.675,0.238,238.0,Y,tonal
+755,joan-klee alee_trecho.mp3,648270,14.7,0.35,350.0,N,tonal
+756,joan-klee alee_trecho.mp3,657531,14.91,0.35,350.0,N,tonal
+757,joan-klee alee_trecho.mp3,666792,15.12,0.35,350.0,N,tonal
+758,joan-klee alee_trecho.mp3,676053,15.33,0.35,350.0,N,tonal
+759,joan-klee alee_trecho.mp3,685314,15.54,0.35,350.0,N,tonal
+760,joan-klee alee_trecho.mp3,694575,15.75,0.35,350.0,N,tonal
+761,joan-klee alee_trecho.mp3,741632,16.8171,0.0871,87.1,Y,tonal
+762,joan-klee alee_trecho.mp3,759402,17.22,0.35,350.0,N,tonal
+763,joan-klee alee_trecho.mp3,787185,17.85,0.35,350.0,N,tonal
+764,joan-klee alee_trecho.mp3,796446,18.06,0.35,350.0,N,tonal
+765,joan-klee alee_trecho.mp3,805707,18.27,0.35,350.0,N,tonal
+766,joan-klee alee_trecho.mp3,814968,18.48,0.35,350.0,N,tonal
+767,joan-klee alee_trecho.mp3,898317,20.37,0.35,350.0,N,tonal
+768,joan-klee alee_trecho.mp3,935361,21.21,0.18,180.0,N,noisy
+769,joan-klee alee_trecho.mp3,935361,21.21,0.35,350.0,N,noisy
+770,joan-klee alee_trecho.mp3,935680,21.2172,0.18,180.0,Y,transient
+771,joan-klee alee_trecho.mp3,938240,21.2753,0.12,120.0,Y,transient
+772,joan-klee alee_trecho.mp3,938448,21.28,0.12,120.0,N,noisy
+773,joan-klee alee_trecho.mp3,938448,21.28,0.06,60.0,N,noisy
+774,joan-klee alee_trecho.mp3,940800,21.3333,0.267,267.0,Y,transient
+775,joan-klee alee_trecho.mp3,1000188,22.68,0.35,350.0,N,tonal
+776,joan-klee alee_trecho.mp3,1041664,23.6205,0.1451,145.1,Y,tonal
+777,joan-klee alee_trecho.mp3,1059840,24.0327,0.2554,255.4,Y,tonal
+778,joan-klee alee_trecho.mp3,1074276,24.36,0.35,350.0,N,tonal
+779,joan-klee alee_trecho.mp3,1083537,24.57,0.35,350.0,N,tonal
+780,joan-klee alee_trecho.mp3,1092798,24.78,0.35,350.0,N,tonal
+781,joan-klee alee_trecho.mp3,1111320,25.2,0.35,350.0,N,tonal
+782,joan-klee alee_trecho.mp3,1148364,26.04,0.35,350.0,N,tonal
+783,joan-klee alee_trecho.mp3,1149696,26.0702,0.06,60.0,Y,transient
+784,joan-klee alee_trecho.mp3,1157625,26.25,0.35,350.0,N,tonal
+785,joan-klee alee_trecho.mp3,1234432,27.9917,0.06,60.0,Y,transient
+786,joan-klee alee_trecho.mp3,1245440,28.2413,0.0987,98.7,Y,transient
+787,joan-klee alee_trecho.mp3,1333584,30.24,0.35,350.0,N,tonal
+788,joan-klee alee_trecho.mp3,1342845,30.45,0.35,350.0,N,tonal
+789,joan-klee alee_trecho.mp3,1352106,30.66,0.35,350.0,N,tonal
+790,joan-klee alee_trecho.mp3,1367552,31.0102,0.238,238.0,Y,tonal
+791,joan-klee alee_trecho.mp3,1370628,31.08,0.35,350.0,N,tonal
+792,joan-klee alee_trecho.mp3,1379889,31.29,0.35,350.0,N,tonal
+793,joan-klee alee_trecho.mp3,1398411,31.71,0.35,350.0,N,tonal
+794,joan-klee alee_trecho.mp3,1426194,32.34,0.35,350.0,N,tonal
+795,joan-klee alee_trecho.mp3,1481216,33.5877,0.0639,63.9,Y,transient
+796,joan-klee alee_trecho.mp3,1488384,33.7502,0.06,60.0,Y,transient
+797,joan-klee alee_trecho.mp3,1537326,34.86,0.35,350.0,N,tonal
+798,joan-klee alee_trecho.mp3,1546587,35.07,0.35,350.0,N,tonal
+799,joan-klee alee_trecho.mp3,1555848,35.28,0.35,350.0,N,tonal
+800,joan-klee alee_trecho.mp3,1565109,35.49,0.35,350.0,N,tonal
+801,joan-klee alee_trecho.mp3,1574370,35.7,0.35,350.0,N,tonal
+802,joan-klee alee_trecho.mp3,1583631,35.91,0.35,350.0,N,tonal
+803,joan-klee alee_trecho.mp3,1592892,36.12,0.35,350.0,N,tonal
+804,joan-klee alee_trecho.mp3,1602153,36.33,0.35,350.0,N,tonal
+805,joan-klee alee_trecho.mp3,1694464,38.4232,0.2612,261.2,Y,tonal
+806,joan-klee alee_trecho.mp3,1796634,40.74,0.35,350.0,N,tonal
+807,joan-klee alee_trecho.mp3,1914624,43.4155,0.06,60.0,Y,transient
+808,joan-klee alee_trecho.mp3,1917027,43.47,0.35,350.0,N,tonal
+809,joan-klee alee_trecho.mp3,1926288,43.68,0.35,350.0,N,tonal
+810,joan-klee alee_trecho.mp3,1935549,43.89,0.35,350.0,N,tonal
+811,joan-klee alee_trecho.mp3,1944810,44.1,0.35,350.0,N,tonal
+812,joan-klee alee_trecho.mp3,1954071,44.31,0.35,350.0,N,tonal
+813,joan-klee alee_trecho.mp3,1963332,44.52,0.35,350.0,N,tonal
+814,joan-klee alee_trecho.mp3,1972593,44.73,0.35,350.0,N,tonal
+815,joan-klee alee_trecho.mp3,1981854,44.94,0.35,350.0,N,tonal
+816,joan-klee alee_trecho.mp3,1991115,45.15,0.35,350.0,N,tonal
+817,joan-klee alee_trecho.mp3,2009637,45.57,0.35,350.0,N,tonal
+818,joan-klee alee_trecho.mp3,2018898,45.78,0.35,350.0,N,tonal
+819,joan-klee alee_trecho.mp3,2028159,45.99,0.35,350.0,N,tonal
+820,joan-klee alee_trecho.mp3,2085888,47.299,0.06,60.0,Y,transient
+821,joan-klee alee_trecho.mp3,2111508,47.88,0.35,350.0,N,tonal
+822,joan-klee alee_trecho.mp3,2126080,48.2104,0.1509,150.9,Y,transient
+823,joan-klee alee_trecho.mp3,2144768,48.6342,0.06,60.0,Y,transient
+824,joan-klee alee_trecho.mp3,2176335,49.35,0.35,350.0,N,tonal
+825,joan-klee alee_trecho.mp3,2185596,49.56,0.35,350.0,N,tonal
+826,joan-klee alee_trecho.mp3,2203392,49.9635,0.2264,226.4,Y,tonal
+827,joan-klee alee_trecho.mp3,2257408,51.1884,0.06,60.0,Y,transient
+828,joan-klee alee_trecho.mp3,2278206,51.66,0.35,350.0,N,tonal
+829,joan-klee alee_trecho.mp3,2287467,51.87,0.35,350.0,N,tonal
+830,joan-klee alee_trecho.mp3,2324511,52.71,0.35,350.0,N,tonal
+831,joan-klee alee_trecho.mp3,2333772,52.92,0.35,350.0,N,tonal
+832,joan-klee alee_trecho.mp3,2334464,52.9357,0.2844,284.4,Y,transient
+833,joan-klee alee_trecho.mp3,2361555,53.55,0.35,350.0,N,tonal
+834,joan-klee alee_trecho.mp3,2370816,53.76,0.35,350.0,N,tonal
+835,joan-klee alee_trecho.mp3,2380077,53.97,0.35,350.0,N,tonal
+836,joan-klee alee_trecho.mp3,2397952,54.3753,0.2496,249.6,Y,tonal
+837,joan-klee alee_trecho.mp3,2449152,55.5363,0.1451,145.1,Y,tonal
+838,joan-klee alee_trecho.mp3,2530560,57.3823,0.2322,232.2,Y,tonal
+839,joan-klee alee_trecho.mp3,2570752,58.2937,0.1045,104.5,Y,transient
+840,joan-klee alee_trecho.mp3,2593024,58.7987,0.06,60.0,Y,transient
+841,joan-klee alee_trecho.mp3,2593024,58.7987,0.12,120.0,Y,transient
+842,joan-klee alee_trecho.mp3,2593024,58.7987,0.18,180.0,Y,transient
+843,joan-klee alee_trecho.mp3,2595072,58.8452,0.06,60.0,Y,transient
+844,joan-klee alee_trecho.mp3,2597632,58.9032,0.18,180.0,Y,transient
+845,joan-klee alee_trecho.mp3,2602341,59.01,0.35,350.0,N,tonal
+846,joan-klee alee_trecho.mp3,2644992,59.9771,0.2322,232.2,Y,tonal
+847,joan-klee alee_trecho.mp3,2676429,60.69,0.35,350.0,N,tonal
+848,joan-klee alee_trecho.mp3,2685690,60.9,0.35,350.0,N,tonal
+849,joan-klee alee_trecho.mp3,2692096,61.0453,0.06,60.0,Y,transient
+850,joan-klee alee_trecho.mp3,2694951,61.11,0.35,350.0,N,tonal
+851,joan-klee alee_trecho.mp3,2704212,61.32,0.35,350.0,N,tonal
+852,joan-klee alee_trecho.mp3,2713473,61.53,0.35,350.0,N,tonal
+853,joan-klee alee_trecho.mp3,2722734,61.74,0.35,350.0,N,tonal
+854,joan-klee alee_trecho.mp3,2731995,61.95,0.35,350.0,N,tonal
+855,joan-klee alee_trecho.mp3,2750517,62.37,0.35,350.0,N,tonal
+856,joan-klee alee_trecho.mp3,2767872,62.7635,0.2438,243.8,Y,tonal
+857,joan-klee alee_trecho.mp3,2800640,63.5066,0.06,60.0,Y,transient
+858,joan-klee alee_trecho.mp3,2806083,63.63,0.35,350.0,N,tonal
+859,joan-klee alee_trecho.mp3,2889432,65.52,0.35,350.0,N,tonal
+860,joan-klee alee_trecho.mp3,2917215,66.15,0.35,350.0,N,tonal
+861,joan-klee alee_trecho.mp3,2926476,66.36,0.35,350.0,N,tonal
+862,joan-klee alee_trecho.mp3,2939392,66.6529,0.2612,261.2,Y,tonal
+863,joan-klee alee_trecho.mp3,2950912,66.9141,0.1393,139.3,Y,tonal
+864,joan-klee alee_trecho.mp3,2998784,67.9996,0.06,60.0,Y,transient
+865,joan-klee alee_trecho.mp3,3050240,69.1664,0.06,60.0,Y,transient
+866,joan-klee alee_trecho.mp3,3050240,69.1664,0.0697,69.7,Y,noisy
+867,joan-klee alee_trecho.mp3,3076864,69.7702,0.06,60.0,Y,transient
+868,joan-klee alee_trecho.mp3,3137792,71.1517,0.2496,249.6,Y,tonal
+869,joan-klee alee_trecho.mp3,3176523,72.03,0.35,350.0,N,tonal
+870,joan-klee alee_trecho.mp3,3195045,72.45,0.35,350.0,N,tonal
+871,joan-klee alee_trecho.mp3,3204306,72.66,0.35,350.0,N,tonal
+872,joan-klee alee_trecho.mp3,3241350,73.5,0.35,350.0,N,tonal
+873,joan-klee alee_trecho.mp3,3250611,73.71,0.35,350.0,N,tonal
+874,joan-klee alee_trecho.mp3,3259872,73.92,0.35,350.0,N,tonal
+875,joan-klee alee_trecho.mp3,3269133,74.13,0.35,350.0,N,tonal
+876,joan-klee alee_trecho.mp3,3350272,75.9699,0.2496,249.6,Y,tonal
+877,joan-klee alee_trecho.mp3,3361280,76.2195,0.06,60.0,Y,transient
+878,joan-klee alee_trecho.mp3,3387904,76.8232,0.2612,261.2,Y,tonal
+879,joan-klee alee_trecho.mp3,3398787,77.07,0.35,350.0,N,tonal
+880,joan-klee alee_trecho.mp3,3427072,77.7114,0.0987,98.7,Y,transient
+881,joan-klee alee_trecho.mp3,3485696,79.0407,0.2902,290.2,Y,transient
+882,joan-klee alee_trecho.mp3,3501056,79.389,0.1451,145.1,Y,tonal
+883,joan-klee alee_trecho.mp3,3509919,79.59,0.35,350.0,N,tonal
+884,joan-klee alee_trecho.mp3,3544320,80.3701,0.238,238.0,Y,tonal
+885,joan-klee alee_trecho.mp3,3567872,80.9041,0.06,60.0,Y,transient
+886,joan-klee alee_trecho.mp3,3593268,81.48,0.35,350.0,N,tonal
+887,joan-klee alee_trecho.mp3,3663360,83.0694,0.2438,243.8,Y,tonal
+888,joan-klee alee_trecho.mp3,3695139,83.79,0.35,350.0,N,tonal
+889,joan-klee alee_trecho.mp3,3722496,84.4103,0.06,60.0,Y,transient
+890,joan-klee alee_trecho.mp3,3722496,84.4103,0.12,120.0,Y,transient
+891,joan-klee alee_trecho.mp3,3734272,84.6774,0.06,60.0,Y,transient
+892,joan-klee alee_trecho.mp3,3759966,85.26,0.35,350.0,N,tonal
+893,joan-klee alee_trecho.mp3,3784704,85.821,0.06,60.0,Y,transient
+894,joan-klee alee_trecho.mp3,3793152,86.0125,0.1509,150.9,Y,transient
+895,joan-klee alee_trecho.mp3,3870464,87.7656,0.0987,98.7,Y,transient
+896,joan-klee alee_trecho.mp3,3945186,89.46,0.35,350.0,N,tonal
+897,joan-klee alee_trecho.mp3,3955968,89.7045,0.1335,133.5,Y,tonal
+898,joan-klee alee_trecho.mp3,3963708,89.88,0.35,350.0,N,tonal
+899,joan-klee alee_trecho.mp3,3972969,90.09,0.35,350.0,N,tonal
+900,joan-klee alee_trecho.mp3,3974912,90.1341,0.2438,243.8,Y,tonal
+901,joan-klee alee_trecho.mp3,4067328,92.2297,0.1625,162.5,Y,transient
+902,joan-klee alee_trecho.mp3,4111884,93.24,0.35,350.0,N,tonal
+903,joan-klee alee_trecho.mp3,4163840,94.4181,0.1451,145.1,Y,tonal
+904,joan-klee alee_trecho.mp3,4185972,94.92,0.35,350.0,N,tonal
+905,joan-klee alee_trecho.mp3,4192000,95.0567,0.238,238.0,Y,tonal
+906,joan-klee alee_trecho.mp3,4204494,95.34,0.35,350.0,N,noisy
+907,joan-klee alee_trecho.mp3,4213755,95.55,0.35,350.0,N,noisy
+908,joan-klee alee_trecho.mp3,4215040,95.5791,0.18,180.0,Y,transient
+909,joan-klee alee_trecho.mp3,4215040,95.5791,0.2264,226.4,Y,tonal
+910,joan-klee alee_trecho.mp3,4216842,95.62,0.06,60.0,N,noisy
+911,joan-klee alee_trecho.mp3,4223016,95.76,0.35,350.0,N,tonal
+912,joan-klee alee_trecho.mp3,4225024,95.8055,0.06,60.0,Y,transient
+913,joan-klee alee_trecho.mp3,4241538,96.18,0.35,350.0,N,tonal
+914,joan-klee alee_trecho.mp3,4245248,96.2641,0.3309,330.9,Y,transient
+915,joan-klee alee_trecho.mp3,4260060,96.6,0.35,350.0,N,noisy
+916,joan-klee alee_trecho.mp3,4266234,96.74,0.06,60.0,N,noisy
+917,joan-klee alee_trecho.mp3,4267520,96.7692,0.06,60.0,Y,transient
+918,joan-klee alee_trecho.mp3,4267520,96.7692,0.0929,92.9,Y,transient
+919,joan-klee alee_trecho.mp3,4267520,96.7692,0.18,180.0,Y,transient
+920,joan-klee alee_trecho.mp3,4269321,96.81,0.35,350.0,N,noisy
+921,joan-klee alee_trecho.mp3,4278582,97.02,0.35,350.0,N,noisy
+922,joan-klee alee_trecho.mp3,4287843,97.23,0.35,350.0,N,noisy
+923,joan-klee alee_trecho.mp3,4315626,97.86,0.35,350.0,N,tonal
+924,joan-klee alee_trecho.mp3,4324887,98.07,0.35,350.0,N,tonal
+925,joan-klee alee_trecho.mp3,4334148,98.28,0.35,350.0,N,tonal
+926,joan-klee alee_trecho.mp3,4342528,98.47,0.1393,139.3,Y,tonal
+927,joan-klee alee_trecho.mp3,4343409,98.49,0.35,350.0,N,tonal
+928,joan-klee alee_trecho.mp3,4352670,98.7,0.35,350.0,N,noisy
+929,joan-klee alee_trecho.mp3,4354560,98.7429,0.06,60.0,Y,transient
+930,joan-klee alee_trecho.mp3,4361931,98.91,0.35,350.0,N,noisy
+931,joan-klee alee_trecho.mp3,4366336,99.0099,0.06,60.0,Y,transient
+932,joan-klee alee_trecho.mp3,4366336,99.0099,0.18,180.0,Y,transient
+933,joan-klee alee_trecho.mp3,4368105,99.05,0.18,180.0,N,noisy
+934,joan-klee alee_trecho.mp3,4371192,99.12,0.35,350.0,N,noisy
+935,joan-klee alee_trecho.mp3,4380453,99.33,0.35,350.0,N,noisy
+936,joan-klee alee_trecho.mp3,4398975,99.75,0.35,350.0,N,tonal
+937,joan-klee alee_trecho.mp3,4417497,100.17,0.35,350.0,N,tonal
+938,joan-klee alee_trecho.mp3,4418304,100.1883,0.18,180.0,Y,tonal
+939,joan-klee alee_trecho.mp3,4426758,100.38,0.35,350.0,N,tonal
+940,joan-klee alee_trecho.mp3,4436019,100.59,0.35,350.0,N,tonal
+941,joan-klee alee_trecho.mp3,4454541,101.01,0.35,350.0,N,tonal
+942,joan-klee alee_trecho.mp3,4463802,101.22,0.35,350.0,N,noisy
+943,joan-klee alee_trecho.mp3,4470016,101.3609,0.18,180.0,Y,noisy
+944,joan-klee alee_trecho.mp3,4473063,101.43,0.35,350.0,N,noisy
+945,joan-klee alee_trecho.mp3,4473063,101.43,0.18,180.0,N,noisy
+946,joan-klee alee_trecho.mp3,4481536,101.6221,0.2961,296.1,Y,noisy
+947,joan-klee alee_trecho.mp3,4482324,101.64,0.35,350.0,N,tonal
+948,joan-klee alee_trecho.mp3,4491585,101.85,0.18,180.0,N,noisy
+949,joan-klee alee_trecho.mp3,4491585,101.85,0.35,350.0,N,noisy
+950,joan-klee alee_trecho.mp3,4494592,101.9182,0.06,60.0,Y,transient
+951,joan-klee alee_trecho.mp3,4494592,101.9182,0.12,120.0,Y,noisy
+952,joan-klee alee_trecho.mp3,4494672,101.92,0.06,60.0,N,noisy
+953,joan-klee alee_trecho.mp3,4496896,101.9704,0.18,180.0,Y,transient
+954,joan-klee alee_trecho.mp3,4510107,102.27,0.35,350.0,N,noisy
+955,joan-klee alee_trecho.mp3,4519368,102.48,0.35,350.0,N,noisy
+956,joan-klee alee_trecho.mp3,4528629,102.69,0.35,350.0,N,noisy
+957,joan-klee alee_trecho.mp3,4535040,102.8354,0.12,120.0,Y,transient
+958,joan-klee alee_trecho.mp3,4537890,102.9,0.35,350.0,N,noisy
+959,joan-klee alee_trecho.mp3,4538368,102.9108,0.18,180.0,Y,noisy
+960,joan-klee alee_trecho.mp3,4540928,102.9689,0.3193,319.3,Y,noisy
+961,joan-klee alee_trecho.mp3,4540928,102.9689,0.12,120.0,Y,noisy
+962,joan-klee alee_trecho.mp3,4547151,103.11,0.35,350.0,N,noisy
+963,joan-klee alee_trecho.mp3,4550238,103.18,0.18,180.0,N,noisy
+964,joan-klee alee_trecho.mp3,4555008,103.2882,0.267,267.0,Y,transient
+965,joan-klee alee_trecho.mp3,4555008,103.2882,0.18,180.0,Y,noisy
+966,joan-klee alee_trecho.mp3,4556412,103.32,0.35,350.0,N,noisy
+967,joan-klee alee_trecho.mp3,4565673,103.53,0.35,350.0,N,noisy
+968,joan-klee alee_trecho.mp3,4574934,103.74,0.35,350.0,N,noisy
+969,joan-klee alee_trecho.mp3,4584195,103.95,0.35,350.0,N,tonal
+970,joan-klee alee_trecho.mp3,4593456,104.16,0.35,350.0,N,noisy
+971,joan-klee alee_trecho.mp3,4611978,104.58,0.35,350.0,N,tonal
+972,joan-klee alee_trecho.mp3,4630500,105.0,0.35,350.0,N,tonal
+973,joan-klee alee_trecho.mp3,4639761,105.21,0.35,350.0,N,noisy
+974,joan-klee alee_trecho.mp3,4643840,105.3025,0.18,180.0,Y,transient
+975,joan-klee alee_trecho.mp3,4646400,105.3605,0.12,120.0,Y,noisy
+976,joan-klee alee_trecho.mp3,4649022,105.42,0.18,180.0,N,noisy
+977,joan-klee alee_trecho.mp3,4649022,105.42,0.35,350.0,N,noisy
+978,joan-klee alee_trecho.mp3,4658283,105.63,0.35,350.0,N,noisy
+979,joan-klee alee_trecho.mp3,4664064,105.7611,0.06,60.0,Y,noisy
+980,joan-klee alee_trecho.mp3,4667544,105.84,0.35,350.0,N,noisy
+981,joan-klee alee_trecho.mp3,4670631,105.91,0.18,180.0,N,noisy
+982,joan-klee alee_trecho.mp3,4670976,105.9178,0.06,60.0,Y,noisy
+983,joan-klee alee_trecho.mp3,4670976,105.9178,0.18,180.0,Y,noisy
+984,joan-klee alee_trecho.mp3,4670976,105.9178,0.1045,104.5,Y,noisy
+985,joan-klee alee_trecho.mp3,4670976,105.9178,0.12,120.0,Y,noisy
+986,joan-klee alee_trecho.mp3,4676805,106.05,0.35,350.0,N,noisy
+987,joan-klee alee_trecho.mp3,4686066,106.26,0.35,350.0,N,noisy
+988,joan-klee alee_trecho.mp3,4693248,106.4229,0.1625,162.5,Y,transient
+989,joan-klee alee_trecho.mp3,4695327,106.47,0.18,180.0,N,noisy
+990,joan-klee alee_trecho.mp3,4695327,106.47,0.35,350.0,N,noisy
+991,joan-klee alee_trecho.mp3,4704588,106.68,0.35,350.0,N,tonal
+992,joan-klee alee_trecho.mp3,4713849,106.89,0.35,350.0,N,noisy
+993,joan-klee alee_trecho.mp3,4716936,106.96,0.18,180.0,N,tonal
+994,joan-klee alee_trecho.mp3,4723110,107.1,0.35,350.0,N,noisy
+995,joan-klee alee_trecho.mp3,4730368,107.2646,0.18,180.0,Y,transient
+996,joan-klee alee_trecho.mp3,4732371,107.31,0.35,350.0,N,noisy
+997,joan-klee alee_trecho.mp3,4732672,107.3168,0.06,60.0,Y,transient
+998,joan-klee alee_trecho.mp3,4732672,107.3168,0.0987,98.7,Y,transient
+999,joan-klee alee_trecho.mp3,4735458,107.38,0.06,60.0,N,noisy
+1000,maja-Acid.mp3,48128,1.0913,0.06,60.0,Y,transient
+1001,maja-Acid.mp3,55296,1.2539,0.2902,290.2,Y,transient
+1002,maja-Acid.mp3,143360,3.2508,0.18,180.0,Y,transient
+1003,maja-Acid.mp3,241920,5.4857,0.12,120.0,Y,transient
+1004,maja-Acid.mp3,241920,5.4857,0.0929,92.9,Y,transient
+1005,maja-Acid.mp3,250047,5.67,0.35,350.0,N,tonal
+1006,maja-Acid.mp3,259308,5.88,0.18,180.0,N,tonal
+1007,maja-Acid.mp3,259308,5.88,0.35,350.0,N,tonal
+1008,maja-Acid.mp3,337152,7.6452,0.0929,92.9,Y,transient
+1009,maja-Acid.mp3,355840,8.0689,0.06,60.0,Y,transient
+1010,maja-Acid.mp3,355840,8.0689,0.12,120.0,Y,transient
+1011,maja-Acid.mp3,355840,8.0689,0.18,180.0,Y,transient
+1012,maja-Acid.mp3,401152,9.0964,0.2264,226.4,Y,tonal
+1013,maja-Acid.mp3,411136,9.3228,0.06,60.0,Y,transient
+1014,maja-Acid.mp3,416745,9.45,0.35,350.0,N,tonal
+1015,maja-Acid.mp3,417536,9.4679,0.06,60.0,Y,transient
+1016,maja-Acid.mp3,417536,9.4679,0.12,120.0,Y,transient
+1017,maja-Acid.mp3,451072,10.2284,0.1567,156.7,Y,transient
+1018,maja-Acid.mp3,461056,10.4548,0.18,180.0,Y,transient
+1019,maja-Acid.mp3,465920,10.5651,0.06,60.0,Y,transient
+1020,maja-Acid.mp3,465920,10.5651,0.12,120.0,Y,transient
+1021,maja-Acid.mp3,465920,10.5651,0.18,180.0,Y,transient
+1022,maja-Acid.mp3,486912,11.0411,0.06,60.0,Y,transient
+1023,maja-Acid.mp3,489472,11.0991,0.18,180.0,Y,transient
+1024,maja-Acid.mp3,492800,11.1746,0.12,120.0,Y,transient
+1025,maja-Acid.mp3,492800,11.1746,0.18,180.0,Y,transient
+1026,maja-Acid.mp3,496640,11.2617,0.06,60.0,Y,transient
+1027,maja-Acid.mp3,509440,11.5519,0.238,238.0,Y,tonal
+1028,maja-Acid.mp3,528384,11.9815,0.06,60.0,Y,transient
+1029,maja-Acid.mp3,551680,12.5098,0.06,60.0,Y,transient
+1030,maja-Acid.mp3,551680,12.5098,0.12,120.0,Y,transient
+1031,maja-Acid.mp3,553984,12.562,0.06,60.0,Y,transient
+1032,maja-Acid.mp3,553984,12.562,0.1625,162.5,Y,transient
+1033,maja-Acid.mp3,561152,12.7245,0.18,180.0,Y,transient
+1034,maja-Acid.mp3,574182,13.02,0.35,350.0,N,tonal
+1035,maja-Acid.mp3,596224,13.5198,0.18,180.0,Y,transient
+1036,maja-Acid.mp3,599296,13.5895,0.18,180.0,Y,transient
+1037,maja-Acid.mp3,602880,13.6707,0.18,180.0,Y,transient
+1038,maja-Acid.mp3,609024,13.8101,0.0987,98.7,Y,transient
+1039,maja-Acid.mp3,609024,13.8101,0.18,180.0,Y,transient
+1040,maja-Acid.mp3,613376,13.9088,0.06,60.0,Y,transient
+1041,maja-Acid.mp3,613376,13.9088,0.18,180.0,Y,transient
+1042,maja-Acid.mp3,618240,14.019,0.06,60.0,Y,transient
+1043,maja-Acid.mp3,668928,15.1684,0.0929,92.9,Y,transient
+1044,maja-Acid.mp3,673024,15.2613,0.06,60.0,Y,transient
+1045,maja-Acid.mp3,681728,15.4587,0.06,60.0,Y,transient
+1046,maja-Acid.mp3,681728,15.4587,0.0929,92.9,Y,transient
+1047,maja-Acid.mp3,685824,15.5516,0.18,180.0,Y,transient
+1048,maja-Acid.mp3,688896,15.6212,0.12,120.0,Y,transient
+1049,maja-Acid.mp3,691456,15.6793,0.06,60.0,Y,transient
+1050,maja-Acid.mp3,691456,15.6793,0.12,120.0,Y,transient
+1051,maja-Acid.mp3,691456,15.6793,0.18,180.0,Y,transient
+1052,maja-Acid.mp3,694784,15.7547,0.06,60.0,Y,transient
+1053,maja-Acid.mp3,694784,15.7547,0.0929,92.9,Y,transient
+1054,maja-Acid.mp3,694784,15.7547,0.18,180.0,Y,transient
+1055,maja-Acid.mp3,698880,15.8476,0.06,60.0,Y,transient
+1056,maja-Acid.mp3,698880,15.8476,0.18,180.0,Y,transient
+1057,maja-Acid.mp3,698880,15.8476,0.1393,139.3,Y,tonal
+1058,maja-Acid.mp3,705024,15.9869,0.12,120.0,Y,transient
+1059,maja-Acid.mp3,705024,15.9869,0.18,180.0,Y,transient
+1060,maja-Acid.mp3,725248,16.4455,0.06,60.0,Y,transient
+1061,maja-Acid.mp3,733440,16.6313,0.12,120.0,Y,transient
+1062,maja-Acid.mp3,742400,16.8345,0.12,120.0,Y,transient
+1063,maja-Acid.mp3,750141,17.01,0.35,350.0,N,tonal
+1064,maja-Acid.mp3,805707,18.27,0.35,350.0,N,tonal
+1065,maja-Acid.mp3,888576,20.1491,0.0929,92.9,Y,transient
+1066,maja-Acid.mp3,888576,20.1491,0.18,180.0,Y,transient
+1067,maja-Acid.mp3,892672,20.242,0.12,120.0,Y,noisy
+1068,maja-Acid.mp3,900608,20.422,0.18,180.0,Y,transient
+1069,maja-Acid.mp3,929280,21.0721,0.1741,174.1,Y,noisy
+1070,maja-Acid.mp3,932274,21.14,0.06,60.0,N,noisy
+1071,maja-Acid.mp3,966656,21.9196,0.12,120.0,Y,transient
+1072,maja-Acid.mp3,966656,21.9196,0.18,180.0,Y,transient
+1073,maja-Acid.mp3,968960,21.9719,0.06,60.0,Y,transient
+1074,maja-Acid.mp3,968960,21.9719,0.12,120.0,Y,transient
+1075,maja-Acid.mp3,968960,21.9719,0.18,180.0,Y,transient
+1076,maja-Acid.mp3,972032,22.0415,0.12,120.0,Y,transient
+1077,maja-Acid.mp3,985088,22.3376,0.18,180.0,Y,transient
+1078,maja-Acid.mp3,988672,22.4189,0.06,60.0,Y,transient
+1079,maja-Acid.mp3,988672,22.4189,0.12,120.0,Y,transient
+1080,maja-Acid.mp3,988672,22.4189,0.18,180.0,Y,transient
+1081,maja-Acid.mp3,1006362,22.82,0.06,60.0,N,noisy
+1082,maja-Acid.mp3,1016832,23.0574,0.06,60.0,Y,transient
+1083,maja-Acid.mp3,1019648,23.1213,0.12,120.0,Y,transient
+1084,maja-Acid.mp3,1019648,23.1213,0.18,180.0,Y,transient
+1085,maja-Acid.mp3,1021696,23.1677,0.18,180.0,Y,transient
+1086,maja-Acid.mp3,1033216,23.4289,0.12,120.0,Y,transient
+1087,maja-Acid.mp3,1033216,23.4289,0.18,180.0,Y,transient
+1088,maja-Acid.mp3,1035520,23.4812,0.06,60.0,Y,transient
+1089,maja-Acid.mp3,1053696,23.8933,0.12,120.0,Y,transient
+1090,maja-Acid.mp3,1065216,24.1546,0.06,60.0,Y,transient
+1091,maja-Acid.mp3,1065216,24.1546,0.12,120.0,Y,transient
+1092,maja-Acid.mp3,1065216,24.1546,0.18,180.0,Y,transient
+1093,maja-Acid.mp3,1071616,24.2997,0.18,180.0,Y,transient
+1094,maja-Acid.mp3,1075456,24.3868,0.06,60.0,Y,transient
+1095,maja-Acid.mp3,1098752,24.915,0.06,60.0,Y,transient
+1096,maja-Acid.mp3,1107712,25.1182,0.18,180.0,Y,transient
+1097,maja-Acid.mp3,1155072,26.1921,0.06,60.0,Y,transient
+1098,maja-Acid.mp3,1155072,26.1921,0.18,180.0,Y,transient
+1099,maja-Acid.mp3,1163520,26.3837,0.18,180.0,Y,transient
+1100,maja-Acid.mp3,1165568,26.4301,0.06,60.0,Y,transient
+1101,maja-Acid.mp3,1165568,26.4301,0.12,120.0,Y,transient
+1102,maja-Acid.mp3,1165568,26.4301,0.18,180.0,Y,transient
+1103,maja-Acid.mp3,1171200,26.5578,0.18,180.0,Y,transient
+1104,maja-Acid.mp3,1174016,26.6217,0.06,60.0,Y,transient
+1105,maja-Acid.mp3,1187328,26.9235,0.2786,278.6,Y,transient
+1106,maja-Acid.mp3,1252352,28.398,0.1045,104.5,Y,transient
+1107,maja-Acid.mp3,1252352,28.398,0.18,180.0,Y,transient
+1108,maja-Acid.mp3,1280256,29.0307,0.12,120.0,Y,transient
+1109,maja-Acid.mp3,1280256,29.0307,0.18,180.0,Y,transient
+1110,maja-Acid.mp3,1301504,29.5126,0.18,180.0,Y,transient
+1111,maja-Acid.mp3,1305344,29.5996,0.06,60.0,Y,transient
+1112,maja-Acid.mp3,1319936,29.9305,0.12,120.0,Y,transient
+1113,maja-Acid.mp3,1337088,30.3195,0.12,120.0,Y,transient
+1114,maja-Acid.mp3,1337088,30.3195,0.18,180.0,Y,transient
+1115,maja-Acid.mp3,1340160,30.3891,0.06,60.0,Y,transient
+1116,maja-Acid.mp3,1340160,30.3891,0.12,120.0,Y,transient
+1117,maja-Acid.mp3,1340160,30.3891,0.18,180.0,Y,transient
+1118,maja-Acid.mp3,1350400,30.6213,0.18,180.0,Y,transient
+1119,maja-Acid.mp3,1353728,30.6968,0.06,60.0,Y,transient
+1120,maja-Acid.mp3,1387264,31.4572,0.18,180.0,Y,transient
+1121,maja-Acid.mp3,1414144,32.0668,0.06,60.0,Y,transient
+1122,maja-Acid.mp3,1425664,32.328,0.12,120.0,Y,transient
+1123,maja-Acid.mp3,1425664,32.328,0.18,180.0,Y,transient
+1124,maja-Acid.mp3,1435648,32.5544,0.06,60.0,Y,transient
+1125,maja-Acid.mp3,1449728,32.8737,0.06,60.0,Y,noisy
+1126,maja-Acid.mp3,1469440,33.3206,0.12,120.0,Y,transient
+1127,maja-Acid.mp3,1469440,33.3206,0.18,180.0,Y,transient
+1128,maja-Acid.mp3,1522176,34.5165,0.06,60.0,Y,transient
+1129,maja-Acid.mp3,1534208,34.7893,0.12,120.0,Y,transient
+1130,maja-Acid.mp3,1544448,35.0215,0.06,60.0,Y,transient
+1131,maja-Acid.mp3,1544448,35.0215,0.0929,92.9,Y,transient
+1132,maja-Acid.mp3,1544448,35.0215,0.18,180.0,Y,transient
+1133,maja-Acid.mp3,1575424,35.7239,0.12,120.0,Y,transient
+1134,maja-Acid.mp3,1577457,35.77,0.18,180.0,N,noisy
+1135,maja-Acid.mp3,1580544,35.84,0.18,180.0,N,noisy
+1136,maja-Acid.mp3,1594880,36.1651,0.06,60.0,Y,transient
+1137,maja-Acid.mp3,1594880,36.1651,0.18,180.0,Y,transient
+1138,maja-Acid.mp3,1604096,36.3741,0.06,60.0,Y,transient
+1139,maja-Acid.mp3,1613056,36.5772,0.1045,104.5,Y,transient
+1140,maja-Acid.mp3,1626880,36.8907,0.06,60.0,Y,transient
+1141,maja-Acid.mp3,1629696,36.9546,0.3019,301.9,Y,transient
+1142,maja-Acid.mp3,1643008,37.2564,0.12,120.0,Y,transient
+1143,maja-Acid.mp3,1645824,37.3203,0.2032,203.2,Y,tonal
+1144,maja-Acid.mp3,1654784,37.5234,0.06,60.0,Y,transient
+1145,maja-Acid.mp3,1654784,37.5234,0.12,120.0,Y,transient
+1146,maja-Acid.mp3,1654784,37.5234,0.18,180.0,Y,transient
+1147,maja-Acid.mp3,1657719,37.59,0.35,350.0,N,tonal
+1148,maja-Acid.mp3,1676241,38.01,0.35,350.0,N,tonal
+1149,maja-Acid.mp3,1697850,38.5,0.06,60.0,N,noisy
+1150,maja-Acid.mp3,1716736,38.9283,0.06,60.0,Y,transient
+1151,maja-Acid.mp3,1716736,38.9283,0.12,120.0,Y,transient
+1152,maja-Acid.mp3,1716736,38.9283,0.18,180.0,Y,transient
+1153,maja-Acid.mp3,1732608,39.2882,0.238,238.0,Y,tonal
+1154,maja-Acid.mp3,1753416,39.76,0.18,180.0,N,noisy
+1155,maja-Acid.mp3,1756503,39.83,0.18,180.0,N,noisy
+1156,maja-Acid.mp3,1767168,40.0718,0.06,60.0,Y,transient
+1157,maja-Acid.mp3,1767168,40.0718,0.12,120.0,Y,noisy
+1158,maja-Acid.mp3,1833728,41.5811,0.06,60.0,Y,noisy
+1159,maja-Acid.mp3,1839104,41.703,0.1567,156.7,Y,transient
+1160,maja-Acid.mp3,1846016,41.8598,0.3076,307.7,Y,transient
+1161,maja-Acid.mp3,1892864,42.9221,0.0697,69.7,Y,transient
+1162,maja-Acid.mp3,1892864,42.9221,0.12,120.0,Y,transient
+1163,maja-Acid.mp3,1892864,42.9221,0.18,180.0,Y,transient
+1164,maja-Acid.mp3,1895936,42.9917,0.06,60.0,Y,transient
+1165,maja-Acid.mp3,1895936,42.9917,0.12,120.0,Y,transient
+1166,maja-Acid.mp3,1904384,43.1833,0.12,120.0,Y,transient
+1167,maja-Acid.mp3,1904384,43.1833,0.18,180.0,Y,transient
+1168,maja-Acid.mp3,1906432,43.2298,0.12,120.0,Y,transient
+1169,maja-Acid.mp3,1910016,43.311,0.1045,104.5,Y,transient
+1170,maja-Acid.mp3,1914624,43.4155,0.1567,156.7,Y,transient
+1171,maja-Acid.mp3,1921536,43.5722,0.06,60.0,Y,transient
+1172,maja-Acid.mp3,1921536,43.5722,0.12,120.0,Y,transient
+1173,maja-Acid.mp3,1921536,43.5722,0.18,180.0,Y,transient
+1174,maja-Acid.mp3,1924352,43.6361,0.12,120.0,Y,transient
+1175,maja-Acid.mp3,1933312,43.8393,0.12,120.0,Y,transient
+1176,maja-Acid.mp3,1933312,43.8393,0.18,180.0,Y,transient
+1177,maja-Acid.mp3,1936384,43.9089,0.06,60.0,Y,transient
+1178,maja-Acid.mp3,1936384,43.9089,0.12,120.0,Y,transient
+1179,maja-Acid.mp3,1942784,44.0541,0.06,60.0,Y,transient
+1180,maja-Acid.mp3,1945856,44.1237,0.06,60.0,Y,transient
+1181,maja-Acid.mp3,1950984,44.24,0.06,60.0,N,noisy
+1182,maja-Acid.mp3,1950984,44.24,0.12,120.0,N,noisy
+1183,maja-Acid.mp3,1950984,44.24,0.18,180.0,N,noisy
+1184,maja-Acid.mp3,1953794,44.3037,0.18,180.0,N,noisy
+1185,maja-Acid.mp3,1954071,44.31,0.18,180.0,N,noisy
+1186,maja-Acid.mp3,1971200,44.6984,0.1509,150.9,Y,transient
+1187,maja-Acid.mp3,1977856,44.8493,0.06,60.0,Y,transient
+1188,maja-Acid.mp3,1977856,44.8493,0.18,180.0,Y,transient
+1189,maja-Acid.mp3,1991168,45.1512,0.06,60.0,Y,transient
+1190,maja-Acid.mp3,1991168,45.1512,0.12,120.0,Y,transient
+1191,maja-Acid.mp3,1994752,45.2325,0.06,60.0,Y,transient
+1192,maja-Acid.mp3,1994752,45.2325,0.12,120.0,Y,transient
+1193,maja-Acid.mp3,1998080,45.3079,0.12,120.0,Y,transient
+1194,maja-Acid.mp3,2005248,45.4705,0.18,180.0,Y,transient
+1195,maja-Acid.mp3,2005248,45.4705,0.3076,307.7,Y,transient
+1196,maja-Acid.mp3,2018816,45.7781,0.18,180.0,Y,transient
+1197,maja-Acid.mp3,2024960,45.9175,0.12,120.0,Y,transient
+1198,maja-Acid.mp3,2024960,45.9175,0.18,180.0,Y,transient
+1199,maja-Acid.mp3,2059520,46.7011,0.06,60.0,Y,transient
+1200,maja-Acid.mp3,2066432,46.8579,0.2148,214.8,Y,tonal
+1201,maja-Acid.mp3,2131456,48.3323,0.18,180.0,Y,transient
+1202,maja-Acid.mp3,2146816,48.6806,0.1045,104.5,Y,transient
+1203,maja-Acid.mp3,2146816,48.6806,0.18,180.0,Y,transient
+1204,maja-Acid.mp3,2151424,48.7851,0.06,60.0,Y,transient
+1205,maja-Acid.mp3,2151424,48.7851,0.1161,116.1,Y,transient
+1206,maja-Acid.mp3,2151424,48.7851,0.18,180.0,Y,transient
+1207,maja-Acid.mp3,2156544,48.9012,0.0987,98.7,Y,transient
+1208,maja-Acid.mp3,2160896,48.9999,0.0871,87.1,Y,tonal
+1209,maja-Acid.mp3,2164736,49.087,0.06,60.0,Y,transient
+1210,maja-Acid.mp3,2179422,49.42,0.18,180.0,N,noisy
+1211,maja-Acid.mp3,2182509,49.49,0.18,180.0,N,noisy
+1212,maja-Acid.mp3,2185596,49.56,0.06,60.0,N,noisy
+1213,maja-Acid.mp3,2190336,49.6675,0.1103,110.3,Y,transient
+1214,maja-Acid.mp3,2190336,49.6675,0.18,180.0,Y,transient
+1215,maja-Acid.mp3,2195200,49.7778,0.06,60.0,Y,transient
+1216,maja-Acid.mp3,2195200,49.7778,0.0929,92.9,Y,transient
+1217,maja-Acid.mp3,2195200,49.7778,0.12,120.0,Y,transient
+1218,maja-Acid.mp3,2195200,49.7778,0.18,180.0,Y,transient
+1219,maja-Acid.mp3,2199296,49.8707,0.06,60.0,Y,transient
+1220,maja-Acid.mp3,2199296,49.8707,0.12,120.0,Y,transient
+1221,maja-Acid.mp3,2199296,49.8707,0.18,180.0,Y,transient
+1222,maja-Acid.mp3,2221056,50.3641,0.06,60.0,Y,transient
+1223,maja-Acid.mp3,2292480,51.9837,0.18,180.0,Y,transient
+1224,maja-Acid.mp3,2297600,52.0998,0.12,120.0,Y,transient
+1225,maja-Acid.mp3,2308608,52.3494,0.1625,162.5,Y,transient
+1226,maja-Acid.mp3,2315776,52.5119,0.06,60.0,Y,transient
+1227,maja-Acid.mp3,2348544,53.255,0.12,120.0,Y,transient
+1228,maja-Acid.mp3,2348544,53.255,0.18,180.0,Y,transient
+1229,maja-Acid.mp3,2354176,53.3827,0.06,60.0,Y,transient
+1230,maja-Acid.mp3,2391808,54.236,0.12,120.0,Y,transient
+1231,maja-Acid.mp3,2395648,54.3231,0.12,120.0,Y,transient
+1232,maja-Acid.mp3,2395648,54.3231,0.18,180.0,Y,transient
+1233,maja-Acid.mp3,2409216,54.6307,0.12,120.0,Y,transient
+1234,maja-Acid.mp3,2412032,54.6946,0.06,60.0,Y,transient
+1235,maja-Acid.mp3,2423296,54.95,0.06,60.0,Y,transient
+1236,maja-Acid.mp3,2423296,54.95,0.12,120.0,Y,transient
+1237,maja-Acid.mp3,2442752,55.3912,0.06,60.0,Y,transient
+1238,maja-Acid.mp3,2460416,55.7917,0.06,60.0,Y,transient
+1239,maja-Acid.mp3,2470400,56.0181,0.06,60.0,Y,transient
+1240,maja-Acid.mp3,2470400,56.0181,0.3367,336.7,Y,transient
+1241,maja-Acid.mp3,2485248,56.3548,0.18,180.0,Y,transient
+1242,maja-Acid.mp3,2488832,56.4361,0.06,60.0,Y,transient
+1243,maja-Acid.mp3,2488832,56.4361,0.12,120.0,Y,transient
+1244,maja-Acid.mp3,2501888,56.7322,0.06,60.0,Y,transient
+1245,maja-Acid.mp3,2501888,56.7322,0.12,120.0,Y,transient
+1246,maja-Acid.mp3,2508032,56.8715,0.06,60.0,Y,transient
+1247,maja-Acid.mp3,2526976,57.301,0.06,60.0,Y,transient
+1248,maja-Acid.mp3,2526976,57.301,0.12,120.0,Y,transient
+1249,maja-Acid.mp3,2526976,57.301,0.1741,174.1,Y,transient
+1250,maja-Acid.mp3,2565888,58.1834,0.06,60.0,Y,transient
+1251,maja-Acid.mp3,2565888,58.1834,0.0929,92.9,Y,transient
+1252,maja-Acid.mp3,2574336,58.375,0.06,60.0,Y,transient
+1253,maja-Acid.mp3,2574336,58.375,0.12,120.0,Y,transient
+1254,maja-Acid.mp3,2574336,58.375,0.18,180.0,Y,transient
+1255,maja-Acid.mp3,2579712,58.4969,0.06,60.0,Y,transient
+1256,maja-Acid.mp3,2579712,58.4969,0.1045,104.5,Y,transient
+1257,maja-Acid.mp3,2579712,58.4969,0.18,180.0,Y,transient
+1258,maja-Acid.mp3,2588416,58.6942,0.2148,214.8,Y,tonal
+1259,maja-Acid.mp3,2634752,59.7449,0.06,60.0,Y,transient
+1260,maja-Acid.mp3,2651904,60.1339,0.06,60.0,Y,transient
+1261,maja-Acid.mp3,2651904,60.1339,0.12,120.0,Y,transient
+1262,maja-Acid.mp3,2660352,60.3254,0.18,180.0,Y,transient
+1263,maja-Acid.mp3,2660352,60.3254,0.1451,145.1,Y,tonal
+1264,maja-Acid.mp3,2666752,60.4706,0.06,60.0,Y,transient
+1265,maja-Acid.mp3,2666752,60.4706,0.12,120.0,Y,transient
+1266,maja-Acid.mp3,2666752,60.4706,0.18,180.0,Y,transient
+1267,maja-Acid.mp3,2676480,60.6912,0.06,60.0,Y,transient
+1268,maja-Acid.mp3,2676480,60.6912,0.12,120.0,Y,transient
+1269,maja-Acid.mp3,2676480,60.6912,0.18,180.0,Y,transient
+1270,maja-Acid.mp3,2682368,60.8247,0.1509,150.9,Y,transient
+1271,maja-Acid.mp3,2689024,60.9756,0.06,60.0,Y,transient
+1272,maja-Acid.mp3,2689024,60.9756,0.0929,92.9,Y,transient
+1273,maja-Acid.mp3,2693120,61.0685,0.18,180.0,Y,transient
+1274,maja-Acid.mp3,2712576,61.5097,0.18,180.0,Y,transient
+1275,maja-Acid.mp3,2717184,61.6141,0.06,60.0,Y,transient
+1276,maja-Acid.mp3,2717184,61.6141,0.12,120.0,Y,transient
+1277,maja-Acid.mp3,2724864,61.7883,0.12,120.0,Y,transient
+1278,maja-Acid.mp3,2724864,61.7883,0.18,180.0,Y,transient
+1279,maja-Acid.mp3,2756691,62.51,0.18,180.0,N,noisy
+1280,maja-Acid.mp3,2757890,62.5372,0.18,180.0,N,noisy
+1281,maja-Acid.mp3,2759778,62.58,0.18,180.0,N,noisy
+1282,maja-Acid.mp3,2838784,64.3715,0.12,120.0,Y,transient
+1283,maja-Acid.mp3,2852096,64.6734,0.06,60.0,Y,transient
+1284,maja-Acid.mp3,2852096,64.6734,0.12,120.0,Y,transient
+1285,maja-Acid.mp3,2870910,65.1,0.06,60.0,N,noisy
+1286,maja-Acid.mp3,2882560,65.3642,0.18,180.0,Y,transient
+1287,maja-Acid.mp3,2887680,65.4803,0.06,60.0,Y,transient
+1288,maja-Acid.mp3,2887680,65.4803,0.18,180.0,Y,transient
+1289,maja-Acid.mp3,2908160,65.9447,0.18,180.0,Y,transient
+1290,maja-Acid.mp3,2910464,65.9969,0.06,60.0,Y,transient
+1291,maja-Acid.mp3,2917215,66.15,0.35,350.0,N,tonal
+1292,maja-Acid.mp3,2928640,66.4091,0.18,180.0,Y,transient
+1293,maja-Acid.mp3,2939648,66.6587,0.2612,261.2,Y,tonal
+1294,maja-Acid.mp3,2951168,66.9199,0.18,180.0,Y,transient
+1295,maja-Acid.mp3,2953472,66.9722,0.1103,110.3,Y,transient
+1296,maja-Acid.mp3,2958336,67.0824,0.18,180.0,Y,transient
+1297,maja-Acid.mp3,2971648,67.3843,0.2438,243.8,Y,tonal
+1298,maja-Acid.mp3,2982042,67.62,0.35,350.0,N,tonal
+1299,maja-Acid.mp3,2982400,67.6281,0.3076,307.7,Y,transient
+1300,maja-Acid.mp3,2995968,67.9358,0.06,60.0,Y,transient
+1301,maja-Acid.mp3,3029504,68.6962,0.06,60.0,Y,transient
+1302,maja-Acid.mp3,3029504,68.6962,0.12,120.0,Y,transient
+1303,maja-Acid.mp3,3029504,68.6962,0.18,180.0,Y,transient
+1304,maja-Acid.mp3,3042816,68.9981,0.18,180.0,Y,transient
+1305,maja-Acid.mp3,3055104,69.2767,0.06,60.0,Y,transient
+1306,maja-Acid.mp3,3055104,69.2767,0.18,180.0,Y,noisy
+1307,maja-Acid.mp3,3059217,69.37,0.18,180.0,N,noisy
+1308,maja-Acid.mp3,3062304,69.44,0.12,120.0,N,noisy
+1309,maja-Acid.mp3,3073024,69.6831,0.06,60.0,Y,transient
+1310,maja-Acid.mp3,3136512,71.1227,0.1509,150.9,Y,transient
+1311,maja-Acid.mp3,3148288,71.3898,0.18,180.0,Y,transient
+1312,maja-Acid.mp3,3214848,72.899,0.06,60.0,Y,transient
+1313,maja-Acid.mp3,3214848,72.899,0.12,120.0,Y,transient
+1314,maja-Acid.mp3,3214848,72.899,0.18,180.0,Y,transient
+1315,maja-Acid.mp3,3222784,73.079,0.18,180.0,Y,transient
+1316,maja-Acid.mp3,3235176,73.36,0.18,180.0,N,noisy
+1317,maja-Acid.mp3,3238263,73.43,0.18,180.0,N,noisy
+1318,maja-Acid.mp3,3241350,73.5,0.06,60.0,N,noisy
+1319,maja-Acid.mp3,3243264,73.5434,0.18,180.0,Y,noisy
+1320,maja-Acid.mp3,3247524,73.64,0.06,60.0,N,noisy
+1321,maja-Acid.mp3,3253760,73.7814,0.06,60.0,Y,transient
+1322,maja-Acid.mp3,3253760,73.7814,0.1045,104.5,Y,transient
+1323,maja-Acid.mp3,3260928,73.9439,0.3076,307.7,Y,transient
+1324,maja-Acid.mp3,3296000,74.7392,0.06,60.0,Y,transient
+1325,maja-Acid.mp3,3296000,74.7392,0.12,120.0,Y,transient
+1326,maja-Acid.mp3,3296000,74.7392,0.18,180.0,Y,transient
+1327,maja-Acid.mp3,3343616,75.819,0.06,60.0,Y,transient
+1328,maja-Acid.mp3,3354368,76.0628,0.0929,92.9,Y,transient
+1329,maja-Acid.mp3,3358464,76.1556,0.1567,156.7,Y,transient
+1330,maja-Acid.mp3,3385088,76.7594,0.06,60.0,Y,transient
+1331,maja-Acid.mp3,3388672,76.8406,0.12,120.0,Y,transient
+1332,maja-Acid.mp3,3388672,76.8406,0.18,180.0,Y,transient
+1333,maja-Acid.mp3,3416832,77.4792,0.18,180.0,Y,noisy
+1334,maja-Acid.mp3,3417309,77.49,0.18,180.0,N,noisy
+1335,maja-Acid.mp3,3420160,77.5546,0.06,60.0,Y,noisy
+1336,maja-Acid.mp3,3420396,77.56,0.12,120.0,N,noisy
+1337,maja-Acid.mp3,3420396,77.56,0.18,180.0,N,noisy
+1338,maja-Acid.mp3,3430400,77.7868,0.18,180.0,Y,transient
+1339,maja-Acid.mp3,3439104,77.9842,0.06,60.0,Y,transient
+1340,maja-Acid.mp3,3439104,77.9842,0.12,120.0,Y,transient
+1341,maja-Acid.mp3,3448320,78.1932,0.12,120.0,Y,transient
+1342,maja-Acid.mp3,3453696,78.3151,0.1741,174.1,Y,transient
+1343,maja-Acid.mp3,3461376,78.4893,0.06,60.0,Y,transient
+1344,maja-Acid.mp3,3470592,78.6982,0.18,180.0,Y,transient
+1345,maja-Acid.mp3,3478784,78.884,0.06,60.0,Y,transient
+1346,maja-Acid.mp3,3478784,78.884,0.12,120.0,Y,transient
+1347,maja-Acid.mp3,3478784,78.884,0.18,180.0,Y,transient
+1348,maja-Acid.mp3,3487232,79.0756,0.06,60.0,Y,transient
+1349,maja-Acid.mp3,3487232,79.0756,0.12,120.0,Y,transient
+1350,maja-Acid.mp3,3487232,79.0756,0.1567,156.7,Y,transient
+1351,maja-Acid.mp3,3494144,79.2323,0.18,180.0,Y,noisy
+1352,maja-Acid.mp3,3494484,79.24,0.12,120.0,N,noisy
+1353,maja-Acid.mp3,3494484,79.24,0.18,180.0,N,noisy
+1354,maja-Acid.mp3,3497571,79.31,0.18,180.0,N,noisy
+1355,maja-Acid.mp3,3500544,79.3774,0.18,180.0,Y,transient
+1356,maja-Acid.mp3,3553280,80.5732,0.18,180.0,Y,transient
+1357,maja-Acid.mp3,3556608,80.6487,0.06,60.0,Y,transient
+1358,maja-Acid.mp3,3556608,80.6487,0.12,120.0,Y,transient
+1359,maja-Acid.mp3,3556608,80.6487,0.18,180.0,Y,transient
+1360,maja-Acid.mp3,3572224,81.0028,0.12,120.0,Y,transient
+1361,maja-Acid.mp3,3572224,81.0028,0.18,180.0,Y,transient
+1362,maja-Acid.mp3,3575552,81.0783,0.0987,98.7,Y,transient
+1363,maja-Acid.mp3,3579904,81.177,0.06,60.0,Y,transient
+1364,maja-Acid.mp3,3594752,81.5137,0.12,120.0,Y,transient
+1365,maja-Acid.mp3,3609344,81.8445,0.1045,104.5,Y,transient
+1366,maja-Acid.mp3,3609344,81.8445,0.06,60.0,Y,noisy
+1367,maja-Acid.mp3,3613952,81.949,0.1567,156.7,Y,transient
+1368,maja-Acid.mp3,3620864,82.1058,0.18,180.0,Y,transient
+1369,maja-Acid.mp3,3626240,82.2277,0.12,120.0,Y,transient
+1370,maja-Acid.mp3,3626240,82.2277,0.18,180.0,Y,transient
+1371,maja-Acid.mp3,3647744,82.7153,0.06,60.0,Y,transient
+1372,maja-Acid.mp3,3658095,82.95,0.35,350.0,N,tonal
+1373,maja-Acid.mp3,3683328,83.5222,0.2496,249.6,Y,tonal
+1374,maja-Acid.mp3,3694336,83.7718,0.0987,98.7,Y,transient
+1375,maja-Acid.mp3,3694336,83.7718,0.18,180.0,Y,transient
+1376,maja-Acid.mp3,3698688,83.8705,0.06,60.0,Y,transient
+1377,maja-Acid.mp3,3701760,83.9401,0.18,180.0,Y,transient
+1378,maja-Acid.mp3,3704576,84.004,0.06,60.0,Y,transient
+1379,maja-Acid.mp3,3704576,84.004,0.12,120.0,Y,transient
+1380,maja-Acid.mp3,3712512,84.1839,0.06,60.0,Y,transient
+1381,maja-Acid.mp3,3712512,84.1839,0.1393,139.3,Y,tonal
+1382,maja-Acid.mp3,3718656,84.3233,0.238,238.0,Y,tonal
+1383,maja-Acid.mp3,3738368,84.7702,0.06,60.0,Y,transient
+1384,maja-Acid.mp3,3756032,85.1708,0.18,180.0,Y,transient
+1385,maja-Acid.mp3,3770624,85.5017,0.06,60.0,Y,transient
+1386,maja-Acid.mp3,3797760,86.117,0.06,60.0,Y,transient
+1387,maja-Acid.mp3,3797760,86.117,0.12,120.0,Y,transient
+1388,maja-Acid.mp3,3797760,86.117,0.18,180.0,Y,transient
+1389,maja-Acid.mp3,3824384,86.7207,0.06,60.0,Y,transient
+1390,maja-Acid.mp3,3824384,86.7207,0.12,120.0,Y,transient
+1391,maja-Acid.mp3,3824384,86.7207,0.18,180.0,Y,transient
+1392,maja-Acid.mp3,3838208,87.0342,0.06,60.0,Y,transient
+1393,maja-Acid.mp3,3838208,87.0342,0.12,120.0,Y,transient
+1394,maja-Acid.mp3,3838208,87.0342,0.18,180.0,Y,transient
+1395,maja-Acid.mp3,3847680,87.249,0.06,60.0,Y,transient
+1396,maja-Acid.mp3,3847680,87.249,0.12,120.0,Y,transient
+1397,maja-Acid.mp3,3865344,87.6495,0.06,60.0,Y,transient
+1398,maja-Acid.mp3,3865344,87.6495,0.1741,174.1,Y,transient
+1399,maja-Acid.mp3,3908142,88.62,0.35,350.0,N,tonal
+1400,maja-Study_1_four_track_voice.mp3,322560,7.3143,0.06,60.0,Y,transient
+1401,maja-Study_1_four_track_voice.mp3,351918,7.98,0.35,350.0,N,tonal
+1402,maja-Study_1_four_track_voice.mp3,361179,8.19,0.35,350.0,N,tonal
+1403,maja-Study_1_four_track_voice.mp3,370440,8.4,0.35,350.0,N,tonal
+1404,maja-Study_1_four_track_voice.mp3,379701,8.61,0.35,350.0,N,tonal
+1405,maja-Study_1_four_track_voice.mp3,388962,8.82,0.35,350.0,N,tonal
+1406,maja-Study_1_four_track_voice.mp3,394002,8.9343,0.18,180.0,N,tonal
+1407,maja-Study_1_four_track_voice.mp3,398223,9.03,0.35,350.0,N,tonal
+1408,maja-Study_1_four_track_voice.mp3,407484,9.24,0.35,350.0,N,tonal
+1409,maja-Study_1_four_track_voice.mp3,444528,10.08,0.35,350.0,N,tonal
+1410,maja-Study_1_four_track_voice.mp3,453789,10.29,0.35,350.0,N,tonal
+1411,maja-Study_1_four_track_voice.mp3,493056,11.1804,0.18,180.0,Y,noisy
+1412,maja-Study_1_four_track_voice.mp3,493920,11.2,0.18,180.0,N,noisy
+1413,maja-Study_1_four_track_voice.mp3,497007,11.27,0.18,180.0,N,noisy
+1414,maja-Study_1_four_track_voice.mp3,500094,11.34,0.06,60.0,N,noisy
+1415,maja-Study_1_four_track_voice.mp3,500094,11.34,0.12,120.0,N,noisy
+1416,maja-Study_1_four_track_voice.mp3,500094,11.34,0.18,180.0,N,noisy
+1417,maja-Study_1_four_track_voice.mp3,500994,11.3604,0.18,180.0,N,noisy
+1418,maja-Study_1_four_track_voice.mp3,503181,11.41,0.18,180.0,N,noisy
+1419,maja-Study_1_four_track_voice.mp3,506268,11.48,0.06,60.0,N,noisy
+1420,maja-Study_1_four_track_voice.mp3,506268,11.48,0.12,120.0,N,noisy
+1421,maja-Study_1_four_track_voice.mp3,506268,11.48,0.18,180.0,N,noisy
+1422,maja-Study_1_four_track_voice.mp3,508932,11.5404,0.18,180.0,N,noisy
+1423,maja-Study_1_four_track_voice.mp3,509355,11.55,0.18,180.0,N,noisy
+1424,maja-Study_1_four_track_voice.mp3,512442,11.62,0.06,60.0,N,noisy
+1425,maja-Study_1_four_track_voice.mp3,512442,11.62,0.12,120.0,N,noisy
+1426,maja-Study_1_four_track_voice.mp3,512442,11.62,0.18,180.0,N,noisy
+1427,maja-Study_1_four_track_voice.mp3,515529,11.69,0.18,180.0,N,noisy
+1428,maja-Study_1_four_track_voice.mp3,516870,11.7204,0.18,180.0,N,noisy
+1429,maja-Study_1_four_track_voice.mp3,518616,11.76,0.06,60.0,N,noisy
+1430,maja-Study_1_four_track_voice.mp3,518616,11.76,0.12,120.0,N,noisy
+1431,maja-Study_1_four_track_voice.mp3,518616,11.76,0.18,180.0,N,noisy
+1432,maja-Study_1_four_track_voice.mp3,521703,11.83,0.18,180.0,N,noisy
+1433,maja-Study_1_four_track_voice.mp3,524790,11.9,0.06,60.0,N,noisy
+1434,maja-Study_1_four_track_voice.mp3,524790,11.9,0.12,120.0,N,noisy
+1435,maja-Study_1_four_track_voice.mp3,524790,11.9,0.18,180.0,N,noisy
+1436,maja-Study_1_four_track_voice.mp3,524808,11.9004,0.18,180.0,N,noisy
+1437,maja-Study_1_four_track_voice.mp3,527877,11.97,0.18,180.0,N,noisy
+1438,maja-Study_1_four_track_voice.mp3,530964,12.04,0.06,60.0,N,noisy
+1439,maja-Study_1_four_track_voice.mp3,530964,12.04,0.12,120.0,N,noisy
+1440,maja-Study_1_four_track_voice.mp3,530964,12.04,0.18,180.0,N,noisy
+1441,maja-Study_1_four_track_voice.mp3,532746,12.0804,0.18,180.0,N,noisy
+1442,maja-Study_1_four_track_voice.mp3,534051,12.11,0.18,180.0,N,noisy
+1443,maja-Study_1_four_track_voice.mp3,537138,12.18,0.06,60.0,N,noisy
+1444,maja-Study_1_four_track_voice.mp3,537138,12.18,0.12,120.0,N,noisy
+1445,maja-Study_1_four_track_voice.mp3,537138,12.18,0.18,180.0,N,noisy
+1446,maja-Study_1_four_track_voice.mp3,540225,12.25,0.18,180.0,N,noisy
+1447,maja-Study_1_four_track_voice.mp3,540684,12.2604,0.18,180.0,N,noisy
+1448,maja-Study_1_four_track_voice.mp3,543312,12.32,0.06,60.0,N,noisy
+1449,maja-Study_1_four_track_voice.mp3,543312,12.32,0.12,120.0,N,noisy
+1450,maja-Study_1_four_track_voice.mp3,543312,12.32,0.18,180.0,N,noisy
+1451,maja-Study_1_four_track_voice.mp3,567808,12.8755,0.18,180.0,Y,noisy
+1452,maja-Study_1_four_track_voice.mp3,675072,15.3078,0.06,60.0,Y,noisy
+1453,maja-Study_1_four_track_voice.mp3,682752,15.4819,0.18,180.0,Y,noisy
+1454,maja-Study_1_four_track_voice.mp3,688896,15.6212,0.06,60.0,Y,noisy
+1455,maja-Study_1_four_track_voice.mp3,731619,16.59,0.35,350.0,N,tonal
+1456,maja-Study_1_four_track_voice.mp3,740880,16.8,0.35,350.0,N,tonal
+1457,maja-Study_1_four_track_voice.mp3,750141,17.01,0.35,350.0,N,tonal
+1458,maja-Study_1_four_track_voice.mp3,759402,17.22,0.35,350.0,N,tonal
+1459,maja-Study_1_four_track_voice.mp3,768663,17.43,0.35,350.0,N,tonal
+1460,maja-Study_1_four_track_voice.mp3,777924,17.64,0.35,350.0,N,tonal
+1461,maja-Study_1_four_track_voice.mp3,787185,17.85,0.35,350.0,N,tonal
+1462,maja-Study_1_four_track_voice.mp3,792090,17.9612,0.18,180.0,N,tonal
+1463,maja-Study_1_four_track_voice.mp3,796446,18.06,0.35,350.0,N,tonal
+1464,maja-Study_1_four_track_voice.mp3,842751,19.11,0.35,350.0,N,tonal
+1465,maja-Study_1_four_track_voice.mp3,869120,19.7079,0.06,60.0,Y,transient
+1466,maja-Study_1_four_track_voice.mp3,869120,19.7079,0.12,120.0,Y,noisy
+1467,maja-Study_1_four_track_voice.mp3,881920,19.9982,0.18,180.0,Y,noisy
+1468,maja-Study_1_four_track_voice.mp3,883968,20.0446,0.12,120.0,Y,noisy
+1469,maja-Study_1_four_track_voice.mp3,934656,21.194,0.12,120.0,Y,noisy
+1470,maja-Study_1_four_track_voice.mp3,934656,21.194,0.18,180.0,Y,noisy
+1471,maja-Study_1_four_track_voice.mp3,935361,21.21,0.18,180.0,N,noisy
+1472,maja-Study_1_four_track_voice.mp3,938448,21.28,0.12,120.0,N,noisy
+1473,maja-Study_1_four_track_voice.mp3,938448,21.28,0.18,180.0,N,noisy
+1474,maja-Study_1_four_track_voice.mp3,941535,21.35,0.18,180.0,N,noisy
+1475,maja-Study_1_four_track_voice.mp3,942594,21.374,0.18,180.0,N,noisy
+1476,maja-Study_1_four_track_voice.mp3,944622,21.42,0.18,180.0,N,noisy
+1477,maja-Study_1_four_track_voice.mp3,947709,21.49,0.18,180.0,N,noisy
+1478,maja-Study_1_four_track_voice.mp3,950532,21.554,0.18,180.0,N,noisy
+1479,maja-Study_1_four_track_voice.mp3,950796,21.56,0.12,120.0,N,noisy
+1480,maja-Study_1_four_track_voice.mp3,950796,21.56,0.18,180.0,N,noisy
+1481,maja-Study_1_four_track_voice.mp3,953883,21.63,0.18,180.0,N,noisy
+1482,maja-Study_1_four_track_voice.mp3,956970,21.7,0.12,120.0,N,noisy
+1483,maja-Study_1_four_track_voice.mp3,956970,21.7,0.18,180.0,N,noisy
+1484,maja-Study_1_four_track_voice.mp3,958470,21.734,0.18,180.0,N,noisy
+1485,maja-Study_1_four_track_voice.mp3,960057,21.77,0.18,180.0,N,noisy
+1486,maja-Study_1_four_track_voice.mp3,963144,21.84,0.18,180.0,N,noisy
+1487,maja-Study_1_four_track_voice.mp3,966231,21.91,0.18,180.0,N,noisy
+1488,maja-Study_1_four_track_voice.mp3,966408,21.914,0.18,180.0,N,noisy
+1489,maja-Study_1_four_track_voice.mp3,969318,21.98,0.18,180.0,N,noisy
+1490,maja-Study_1_four_track_voice.mp3,972405,22.05,0.18,180.0,N,noisy
+1491,maja-Study_1_four_track_voice.mp3,974346,22.094,0.18,180.0,N,noisy
+1492,maja-Study_1_four_track_voice.mp3,975492,22.12,0.18,180.0,N,noisy
+1493,maja-Study_1_four_track_voice.mp3,978579,22.19,0.18,180.0,N,noisy
+1494,maja-Study_1_four_track_voice.mp3,981666,22.26,0.18,180.0,N,noisy
+1495,maja-Study_1_four_track_voice.mp3,982284,22.274,0.18,180.0,N,noisy
+1496,maja-Study_1_four_track_voice.mp3,984753,22.33,0.18,180.0,N,noisy
+1497,maja-Study_1_four_track_voice.mp3,987840,22.4,0.12,120.0,N,noisy
+1498,maja-Study_1_four_track_voice.mp3,1005824,22.8078,0.06,60.0,Y,noisy
+1499,maja-Study_1_four_track_voice.mp3,1005824,22.8078,0.12,120.0,Y,noisy
+1500,maja-Study_1_four_track_voice.mp3,1006362,22.82,0.06,60.0,N,noisy
+1501,maja-Study_1_four_track_voice.mp3,1006362,22.82,0.12,120.0,N,noisy
+1502,maja-Study_1_four_track_voice.mp3,1018710,23.1,0.06,60.0,N,noisy
+1503,maja-Study_1_four_track_voice.mp3,1018710,23.1,0.12,120.0,N,noisy
+1504,maja-Study_1_four_track_voice.mp3,1019136,23.1097,0.06,60.0,Y,noisy
+1505,maja-Study_1_four_track_voice.mp3,1157632,26.2502,0.06,60.0,Y,noisy
+1506,maja-Study_1_four_track_voice.mp3,1203456,27.2893,0.06,60.0,Y,transient
+1507,maja-Study_1_four_track_voice.mp3,1203930,27.3,0.18,180.0,N,noisy
+1508,maja-Study_1_four_track_voice.mp3,1216278,27.58,0.06,60.0,N,noisy
+1509,maja-Study_1_four_track_voice.mp3,1216278,27.58,0.12,120.0,N,noisy
+1510,maja-Study_1_four_track_voice.mp3,1217792,27.6143,0.1451,145.1,Y,tonal
+1511,maja-Study_1_four_track_voice.mp3,1222452,27.72,0.35,350.0,N,tonal
+1512,maja-Study_1_four_track_voice.mp3,1234688,27.9975,0.3135,313.5,Y,transient
+1513,maja-Study_1_four_track_voice.mp3,1250235,28.35,0.35,350.0,N,tonal
+1514,maja-Study_1_four_track_voice.mp3,1259496,28.56,0.35,350.0,N,tonal
+1515,maja-Study_1_four_track_voice.mp3,1268757,28.77,0.35,350.0,N,tonal
+1516,maja-Study_1_four_track_voice.mp3,1278018,28.98,0.35,350.0,N,tonal
+1517,maja-Study_1_four_track_voice.mp3,1287279,29.19,0.35,350.0,N,tonal
+1518,maja-Study_1_four_track_voice.mp3,1296540,29.4,0.35,350.0,N,tonal
+1519,maja-Study_1_four_track_voice.mp3,1305801,29.61,0.35,350.0,N,tonal
+1520,maja-Study_1_four_track_voice.mp3,1315062,29.82,0.35,350.0,N,tonal
+1521,maja-Study_1_four_track_voice.mp3,1324323,30.03,0.35,350.0,N,tonal
+1522,maja-Study_1_four_track_voice.mp3,1333584,30.24,0.35,350.0,N,tonal
+1523,maja-Study_1_four_track_voice.mp3,1339904,30.3833,0.2438,243.8,Y,tonal
+1524,maja-Study_1_four_track_voice.mp3,1342845,30.45,0.35,350.0,N,tonal
+1525,maja-Study_1_four_track_voice.mp3,1352106,30.66,0.35,350.0,N,tonal
+1526,maja-Study_1_four_track_voice.mp3,1361367,30.87,0.35,350.0,N,tonal
+1527,maja-Study_1_four_track_voice.mp3,1370628,31.08,0.35,350.0,N,tonal
+1528,maja-Study_1_four_track_voice.mp3,1379889,31.29,0.35,350.0,N,tonal
+1529,maja-Study_1_four_track_voice.mp3,1389150,31.5,0.35,350.0,N,tonal
+1530,maja-Study_1_four_track_voice.mp3,1404928,31.8578,0.2438,243.8,Y,tonal
+1531,maja-Study_1_four_track_voice.mp3,1416933,32.13,0.35,350.0,N,tonal
+1532,maja-Study_1_four_track_voice.mp3,1426194,32.34,0.35,350.0,N,tonal
+1533,maja-Study_1_four_track_voice.mp3,1444716,32.76,0.35,350.0,N,tonal
+1534,maja-Study_1_four_track_voice.mp3,1453977,32.97,0.35,350.0,N,tonal
+1535,maja-Study_1_four_track_voice.mp3,1463238,33.18,0.35,350.0,N,tonal
+1536,maja-Study_1_four_track_voice.mp3,1472499,33.39,0.35,350.0,N,tonal
+1537,maja-Study_1_four_track_voice.mp3,1481760,33.6,0.35,350.0,N,tonal
+1538,maja-Study_1_four_track_voice.mp3,1491021,33.81,0.35,350.0,N,tonal
+1539,maja-Study_1_four_track_voice.mp3,1531648,34.7312,0.18,180.0,Y,noisy
+1540,maja-Study_1_four_track_voice.mp3,1534239,34.79,0.18,180.0,N,noisy
+1541,maja-Study_1_four_track_voice.mp3,1537326,34.86,0.06,60.0,N,noisy
+1542,maja-Study_1_four_track_voice.mp3,1537326,34.86,0.12,120.0,N,noisy
+1543,maja-Study_1_four_track_voice.mp3,1537326,34.86,0.18,180.0,N,noisy
+1544,maja-Study_1_four_track_voice.mp3,1546587,35.07,0.18,180.0,N,noisy
+1545,maja-Study_1_four_track_voice.mp3,1549674,35.14,0.06,60.0,N,noisy
+1546,maja-Study_1_four_track_voice.mp3,1549674,35.14,0.12,120.0,N,noisy
+1547,maja-Study_1_four_track_voice.mp3,1555848,35.28,0.18,180.0,N,noisy
+1548,maja-Study_1_four_track_voice.mp3,1558935,35.35,0.18,180.0,N,noisy
+1549,maja-Study_1_four_track_voice.mp3,1562022,35.42,0.06,60.0,N,noisy
+1550,maja-Study_1_four_track_voice.mp3,1562022,35.42,0.12,120.0,N,noisy
+1551,maja-Study_1_four_track_voice.mp3,1562022,35.42,0.18,180.0,N,noisy
+1552,maja-Study_1_four_track_voice.mp3,1562370,35.4279,0.18,180.0,N,noisy
+1553,maja-Study_1_four_track_voice.mp3,1565109,35.49,0.18,180.0,N,noisy
+1554,maja-Study_1_four_track_voice.mp3,1568196,35.56,0.06,60.0,N,noisy
+1555,maja-Study_1_four_track_voice.mp3,1568196,35.56,0.12,120.0,N,noisy
+1556,maja-Study_1_four_track_voice.mp3,1568196,35.56,0.18,180.0,N,noisy
+1557,maja-Study_1_four_track_voice.mp3,1574370,35.7,0.06,60.0,N,noisy
+1558,maja-Study_1_four_track_voice.mp3,1580544,35.84,0.06,60.0,N,noisy
+1559,maja-Study_1_four_track_voice.mp3,1580544,35.84,0.18,180.0,N,noisy
+1560,maja-Study_1_four_track_voice.mp3,1586718,35.98,0.18,180.0,N,noisy
+1561,maja-Study_1_four_track_voice.mp3,1587200,35.9909,0.18,180.0,Y,noisy
+1562,maja-Study_1_four_track_voice.mp3,1589805,36.05,0.18,180.0,N,noisy
+1563,maja-Study_1_four_track_voice.mp3,1592892,36.12,0.06,60.0,N,noisy
+1564,maja-Study_1_four_track_voice.mp3,1592892,36.12,0.18,180.0,N,noisy
+1565,maja-Study_1_four_track_voice.mp3,1599066,36.26,0.06,60.0,N,noisy
+1566,maja-Study_1_four_track_voice.mp3,1634816,37.0707,0.18,180.0,Y,noisy
+1567,maja-Study_1_four_track_voice.mp3,1636110,37.1,0.12,120.0,N,noisy
+1568,maja-Study_1_four_track_voice.mp3,1636110,37.1,0.18,180.0,N,noisy
+1569,maja-Study_1_four_track_voice.mp3,1639197,37.17,0.18,180.0,N,noisy
+1570,maja-Study_1_four_track_voice.mp3,1642284,37.24,0.06,60.0,N,noisy
+1571,maja-Study_1_four_track_voice.mp3,1658112,37.5989,0.18,180.0,Y,noisy
+1572,maja-Study_1_four_track_voice.mp3,1660806,37.66,0.18,180.0,N,noisy
+1573,maja-Study_1_four_track_voice.mp3,1663893,37.73,0.18,180.0,N,noisy
+1574,maja-Study_1_four_track_voice.mp3,1666050,37.7789,0.18,180.0,N,noisy
+1575,maja-Study_1_four_track_voice.mp3,1666980,37.8,0.18,180.0,N,noisy
+1576,maja-Study_1_four_track_voice.mp3,1670067,37.87,0.18,180.0,N,noisy
+1577,maja-Study_1_four_track_voice.mp3,1676241,38.01,0.18,180.0,N,noisy
+1578,maja-Study_1_four_track_voice.mp3,1680384,38.1039,0.06,60.0,Y,noisy
+1579,maja-Study_1_four_track_voice.mp3,1680384,38.1039,0.2612,261.2,Y,noisy
+1580,maja-Study_1_four_track_voice.mp3,1685502,38.22,0.12,120.0,N,noisy
+1581,maja-Study_1_four_track_voice.mp3,1721856,39.0444,0.06,60.0,Y,noisy
+1582,maja-Study_1_four_track_voice.mp3,1721856,39.0444,0.0639,63.9,Y,noisy
+1583,maja-Study_1_four_track_voice.mp3,1722546,39.06,0.06,60.0,N,noisy
+1584,maja-Study_1_four_track_voice.mp3,1839104,41.703,0.06,60.0,Y,noisy
+1585,maja-Study_1_four_track_voice.mp3,1874432,42.5041,0.1161,116.1,Y,noisy
+1586,maja-Study_1_four_track_voice.mp3,1916928,43.4678,0.06,60.0,Y,noisy
+1587,maja-Study_1_four_track_voice.mp3,1916928,43.4678,0.12,120.0,Y,noisy
+1588,maja-Study_1_four_track_voice.mp3,1916928,43.4678,0.18,180.0,Y,noisy
+1589,maja-Study_1_four_track_voice.mp3,1917027,43.47,0.18,180.0,N,noisy
+1590,maja-Study_1_four_track_voice.mp3,1926144,43.6767,0.06,60.0,Y,noisy
+1591,maja-Study_1_four_track_voice.mp3,1926144,43.6767,0.12,120.0,Y,noisy
+1592,maja-Study_1_four_track_voice.mp3,1926144,43.6767,0.18,180.0,Y,noisy
+1593,maja-Study_1_four_track_voice.mp3,1926288,43.68,0.06,60.0,N,noisy
+1594,maja-Study_1_four_track_voice.mp3,1926288,43.68,0.12,120.0,N,noisy
+1595,maja-Study_1_four_track_voice.mp3,1926288,43.68,0.18,180.0,N,noisy
+1596,maja-Study_1_four_track_voice.mp3,2000376,45.36,0.35,350.0,N,tonal
+1597,maja-Study_1_four_track_voice.mp3,2055942,46.62,0.35,350.0,N,tonal
+1598,maja-Study_1_four_track_voice.mp3,2065203,46.83,0.35,350.0,N,tonal
+1599,maja-Study_1_four_track_voice.mp3,2074464,47.04,0.35,350.0,N,tonal
+1600,maja-Study_1_four_track_voice.mp3,2083725,47.25,0.35,350.0,N,tonal
+1601,maja-Study_1_four_track_voice.mp3,2092986,47.46,0.35,350.0,N,tonal
+1602,maja-Study_1_four_track_voice.mp3,2102247,47.67,0.35,350.0,N,tonal
+1603,maja-Study_1_four_track_voice.mp3,2111508,47.88,0.35,350.0,N,tonal
+1604,maja-Study_1_four_track_voice.mp3,2120769,48.09,0.35,350.0,N,tonal
+1605,maja-Study_1_four_track_voice.mp3,2130030,48.3,0.35,350.0,N,tonal
+1606,maja-Study_1_four_track_voice.mp3,2133117,48.37,0.18,180.0,N,tonal
+1607,maja-Study_1_four_track_voice.mp3,2139291,48.51,0.35,350.0,N,tonal
+1608,maja-Study_1_four_track_voice.mp3,2185596,49.56,0.35,350.0,N,tonal
+1609,maja-Study_1_four_track_voice.mp3,2204118,49.98,0.35,350.0,N,tonal
+1610,maja-Study_1_four_track_voice.mp3,2213379,50.19,0.35,350.0,N,tonal
+1611,maja-Study_1_four_track_voice.mp3,2259684,51.24,0.35,350.0,N,tonal
+1612,maja-Study_1_four_track_voice.mp3,2325504,52.7325,0.18,180.0,Y,noisy
+1613,maja-Study_1_four_track_voice.mp3,2330368,52.8428,0.06,60.0,Y,noisy
+1614,maja-Study_1_four_track_voice.mp3,2330368,52.8428,0.12,120.0,Y,noisy
+1615,maja-Study_1_four_track_voice.mp3,2330368,52.8428,0.18,180.0,Y,noisy
+1616,maja-Study_1_four_track_voice.mp3,2330685,52.85,0.18,180.0,N,noisy
+1617,maja-Study_1_four_track_voice.mp3,2400256,54.4276,0.1451,145.1,Y,tonal
+1618,maja-Study_1_four_track_voice.mp3,2409728,54.6424,0.2322,232.2,Y,tonal
+1619,maja-Study_1_four_track_voice.mp3,2483456,56.3142,0.18,180.0,Y,noisy
+1620,maja-Study_1_four_track_voice.mp3,2485035,56.35,0.18,180.0,N,noisy
+1621,maja-Study_1_four_track_voice.mp3,2488122,56.42,0.06,60.0,N,noisy
+1622,maja-Study_1_four_track_voice.mp3,2488122,56.42,0.12,120.0,N,noisy
+1623,maja-Study_1_four_track_voice.mp3,2488122,56.42,0.18,180.0,N,noisy
+1624,maja-Study_1_four_track_voice.mp3,2491209,56.49,0.18,180.0,N,noisy
+1625,maja-Study_1_four_track_voice.mp3,2491394,56.4942,0.18,180.0,N,noisy
+1626,maja-Study_1_four_track_voice.mp3,2494296,56.56,0.06,60.0,N,noisy
+1627,maja-Study_1_four_track_voice.mp3,2494296,56.56,0.12,120.0,N,noisy
+1628,maja-Study_1_four_track_voice.mp3,2494296,56.56,0.18,180.0,N,noisy
+1629,maja-Study_1_four_track_voice.mp3,2497383,56.63,0.18,180.0,N,noisy
+1630,maja-Study_1_four_track_voice.mp3,2499332,56.6742,0.18,180.0,N,noisy
+1631,maja-Study_1_four_track_voice.mp3,2500470,56.7,0.12,120.0,N,noisy
+1632,maja-Study_1_four_track_voice.mp3,2500470,56.7,0.18,180.0,N,noisy
+1633,maja-Study_1_four_track_voice.mp3,2503557,56.77,0.18,180.0,N,noisy
+1634,maja-Study_1_four_track_voice.mp3,2506644,56.84,0.12,120.0,N,noisy
+1635,maja-Study_1_four_track_voice.mp3,2506644,56.84,0.18,180.0,N,noisy
+1636,maja-Study_1_four_track_voice.mp3,2507270,56.8542,0.18,180.0,N,noisy
+1637,maja-Study_1_four_track_voice.mp3,2509731,56.91,0.18,180.0,N,noisy
+1638,maja-Study_1_four_track_voice.mp3,2512818,56.98,0.12,120.0,N,noisy
+1639,maja-Study_1_four_track_voice.mp3,2512818,56.98,0.18,180.0,N,noisy
+1640,maja-Study_1_four_track_voice.mp3,2515208,57.0342,0.18,180.0,N,noisy
+1641,maja-Study_1_four_track_voice.mp3,2515905,57.05,0.18,180.0,N,noisy
+1642,maja-Study_1_four_track_voice.mp3,2518992,57.12,0.06,60.0,N,noisy
+1643,maja-Study_1_four_track_voice.mp3,2518992,57.12,0.12,120.0,N,noisy
+1644,maja-Study_1_four_track_voice.mp3,2518992,57.12,0.18,180.0,N,noisy
+1645,maja-Study_1_four_track_voice.mp3,2522079,57.19,0.18,180.0,N,noisy
+1646,maja-Study_1_four_track_voice.mp3,2523146,57.2142,0.18,180.0,N,noisy
+1647,maja-Study_1_four_track_voice.mp3,2525166,57.26,0.06,60.0,N,noisy
+1648,maja-Study_1_four_track_voice.mp3,2525166,57.26,0.12,120.0,N,noisy
+1649,maja-Study_1_four_track_voice.mp3,2525166,57.26,0.18,180.0,N,noisy
+1650,maja-Study_1_four_track_voice.mp3,2528253,57.33,0.18,180.0,N,noisy
+1651,maja-Study_1_four_track_voice.mp3,2531084,57.3942,0.18,180.0,N,noisy
+1652,maja-Study_1_four_track_voice.mp3,2531340,57.4,0.06,60.0,N,noisy
+1653,maja-Study_1_four_track_voice.mp3,2531340,57.4,0.12,120.0,N,noisy
+1654,maja-Study_1_four_track_voice.mp3,2531340,57.4,0.18,180.0,N,noisy
+1655,maja-Study_1_four_track_voice.mp3,2534427,57.47,0.18,180.0,N,noisy
+1656,maja-Study_1_four_track_voice.mp3,2537514,57.54,0.06,60.0,N,noisy
+1657,maja-Study_1_four_track_voice.mp3,2537514,57.54,0.12,120.0,N,noisy
+1658,maja-Study_1_four_track_voice.mp3,2537514,57.54,0.18,180.0,N,noisy
+1659,maja-Study_1_four_track_voice.mp3,2539022,57.5742,0.18,180.0,N,noisy
+1660,maja-Study_1_four_track_voice.mp3,2540601,57.61,0.18,180.0,N,noisy
+1661,maja-Study_1_four_track_voice.mp3,2543688,57.68,0.06,60.0,N,noisy
+1662,maja-Study_1_four_track_voice.mp3,2543688,57.68,0.12,120.0,N,noisy
+1663,maja-Study_1_four_track_voice.mp3,2543688,57.68,0.18,180.0,N,noisy
+1664,maja-Study_1_four_track_voice.mp3,2546775,57.75,0.18,180.0,N,noisy
+1665,maja-Study_1_four_track_voice.mp3,2546960,57.7542,0.18,180.0,N,noisy
+1666,maja-Study_1_four_track_voice.mp3,2549862,57.82,0.06,60.0,N,noisy
+1667,maja-Study_1_four_track_voice.mp3,2549862,57.82,0.12,120.0,N,noisy
+1668,maja-Study_1_four_track_voice.mp3,2549862,57.82,0.18,180.0,N,noisy
+1669,maja-Study_1_four_track_voice.mp3,2552949,57.89,0.18,180.0,N,noisy
+1670,maja-Study_1_four_track_voice.mp3,2554898,57.9342,0.18,180.0,N,noisy
+1671,maja-Study_1_four_track_voice.mp3,2556036,57.96,0.12,120.0,N,noisy
+1672,maja-Study_1_four_track_voice.mp3,2556036,57.96,0.18,180.0,N,noisy
+1673,maja-Study_1_four_track_voice.mp3,2559123,58.03,0.18,180.0,N,noisy
+1674,maja-Study_1_four_track_voice.mp3,2562210,58.1,0.18,180.0,N,noisy
+1675,maja-Study_1_four_track_voice.mp3,2562836,58.1142,0.18,180.0,N,noisy
+1676,maja-Study_1_four_track_voice.mp3,2565297,58.17,0.18,180.0,N,noisy
+1677,maja-Study_1_four_track_voice.mp3,2568384,58.24,0.12,120.0,N,noisy
+1678,maja-Study_1_four_track_voice.mp3,2568384,58.24,0.18,180.0,N,noisy
+1679,maja-Study_1_four_track_voice.mp3,2570774,58.2942,0.18,180.0,N,noisy
+1680,maja-Study_1_four_track_voice.mp3,2571471,58.31,0.18,180.0,N,noisy
+1681,maja-Study_1_four_track_voice.mp3,2574558,58.38,0.18,180.0,N,noisy
+1682,maja-Study_1_four_track_voice.mp3,2577645,58.45,0.18,180.0,N,noisy
+1683,maja-Study_1_four_track_voice.mp3,2578712,58.4742,0.18,180.0,N,noisy
+1684,maja-Study_1_four_track_voice.mp3,2580732,58.52,0.12,120.0,N,noisy
+1685,maja-Study_1_four_track_voice.mp3,2580732,58.52,0.18,180.0,N,noisy
+1686,maja-Study_1_four_track_voice.mp3,2583819,58.59,0.18,180.0,N,noisy
+1687,maja-Study_1_four_track_voice.mp3,2586906,58.66,0.12,120.0,N,noisy
+1688,maja-Study_1_four_track_voice.mp3,2586906,58.66,0.18,180.0,N,noisy
+1689,maja-Study_1_four_track_voice.mp3,2589993,58.73,0.18,180.0,N,noisy
+1690,maja-Study_1_four_track_voice.mp3,2590464,58.7407,0.06,60.0,Y,noisy
+1691,maja-Study_1_four_track_voice.mp3,2590464,58.7407,0.12,120.0,Y,noisy
+1692,maja-Study_1_four_track_voice.mp3,2590464,58.7407,0.18,180.0,Y,noisy
+1693,maja-Study_1_four_track_voice.mp3,2648576,60.0584,0.3135,313.5,Y,transient
+1694,maja-Study_1_four_track_voice.mp3,2685690,60.9,0.35,350.0,N,tonal
+1695,maja-Study_1_four_track_voice.mp3,2731995,61.95,0.35,350.0,N,tonal
+1696,maja-Study_1_four_track_voice.mp3,2755584,62.4849,0.12,120.0,Y,noisy
+1697,maja-Study_1_four_track_voice.mp3,2755584,62.4849,0.1161,116.1,Y,noisy
+1698,maja-Study_1_four_track_voice.mp3,2755584,62.4849,0.18,180.0,Y,noisy
+1699,maja-Study_1_four_track_voice.mp3,2756691,62.51,0.18,180.0,N,noisy
+1700,maja-Study_1_four_track_voice.mp3,2799872,63.4892,0.06,60.0,Y,transient
+1701,maja-Study_1_four_track_voice.mp3,2799872,63.4892,0.1045,104.5,Y,transient
+1702,maja-Study_1_four_track_voice.mp3,2799872,63.4892,0.18,180.0,Y,transient
+1703,maja-Study_1_four_track_voice.mp3,2839040,64.3773,0.06,60.0,Y,noisy
+1704,maja-Study_1_four_track_voice.mp3,2890752,65.5499,0.2612,261.2,Y,tonal
+1705,maja-Study_1_four_track_voice.mp3,2912512,66.0434,0.18,180.0,Y,transient
+1706,maja-Study_1_four_track_voice.mp3,2920302,66.22,0.18,180.0,N,noisy
+1707,maja-Study_1_four_track_voice.mp3,2920960,66.2349,0.18,180.0,Y,noisy
+1708,maja-Study_1_four_track_voice.mp3,2923389,66.29,0.18,180.0,N,noisy
+1709,maja-Study_1_four_track_voice.mp3,2926476,66.36,0.12,120.0,N,noisy
+1710,maja-Study_1_four_track_voice.mp3,2926476,66.36,0.18,180.0,N,noisy
+1711,maja-Study_1_four_track_voice.mp3,2928898,66.4149,0.18,180.0,N,noisy
+1712,maja-Study_1_four_track_voice.mp3,2929563,66.43,0.18,180.0,N,noisy
+1713,maja-Study_1_four_track_voice.mp3,2932650,66.5,0.18,180.0,N,noisy
+1714,maja-Study_1_four_track_voice.mp3,2935737,66.57,0.18,180.0,N,noisy
+1715,maja-Study_1_four_track_voice.mp3,2936836,66.5949,0.18,180.0,N,noisy
+1716,maja-Study_1_four_track_voice.mp3,2960128,67.1231,0.06,60.0,Y,noisy
+1717,maja-Study_1_four_track_voice.mp3,2960128,67.1231,0.12,120.0,Y,noisy
+1718,maja-Study_1_four_track_voice.mp3,2960128,67.1231,0.18,180.0,Y,noisy
+1719,maja-Study_1_four_track_voice.mp3,2960128,67.1231,0.209,209.0,Y,noisy
+1720,maja-Study_1_four_track_voice.mp3,2960433,67.13,0.18,180.0,N,noisy
+1721,maja-Study_1_four_track_voice.mp3,2969344,67.3321,0.2032,203.2,Y,noisy
+1722,maja-Study_1_four_track_voice.mp3,2969344,67.3321,0.18,180.0,Y,noisy
+1723,maja-Study_1_four_track_voice.mp3,2969694,67.34,0.12,120.0,N,noisy
+1724,maja-Study_1_four_track_voice.mp3,2969694,67.34,0.18,180.0,N,noisy
+1725,maja-Study_1_four_track_voice.mp3,3167262,71.82,0.35,350.0,N,tonal
+1726,maja-Study_1_four_track_voice.mp3,3220480,73.0268,0.2612,261.2,Y,tonal
+1727,maja-Study_1_four_track_voice.mp3,3425792,77.6824,0.18,180.0,Y,noisy
+1728,maja-Study_1_four_track_voice.mp3,3429657,77.77,0.18,180.0,N,noisy
+1729,maja-Study_1_four_track_voice.mp3,3432744,77.84,0.18,180.0,N,noisy
+1730,maja-Study_1_four_track_voice.mp3,3433730,77.8624,0.18,180.0,N,noisy
+1731,maja-Study_1_four_track_voice.mp3,3435831,77.91,0.18,180.0,N,noisy
+1732,maja-Study_1_four_track_voice.mp3,3438918,77.98,0.12,120.0,N,noisy
+1733,maja-Study_1_four_track_voice.mp3,3438918,77.98,0.18,180.0,N,noisy
+1734,maja-Study_1_four_track_voice.mp3,3441668,78.0424,0.18,180.0,N,noisy
+1735,maja-Study_1_four_track_voice.mp3,3442005,78.05,0.18,180.0,N,noisy
+1736,maja-Study_1_four_track_voice.mp3,3445092,78.12,0.18,180.0,N,noisy
+1737,maja-Study_1_four_track_voice.mp3,3448179,78.19,0.18,180.0,N,noisy
+1738,maja-Study_1_four_track_voice.mp3,3449606,78.2224,0.18,180.0,N,noisy
+1739,maja-Study_1_four_track_voice.mp3,3451266,78.26,0.12,120.0,N,noisy
+1740,maja-Study_1_four_track_voice.mp3,3451266,78.26,0.18,180.0,N,noisy
+1741,maja-Study_1_four_track_voice.mp3,3454353,78.33,0.18,180.0,N,noisy
+1742,maja-Study_1_four_track_voice.mp3,3457440,78.4,0.18,180.0,N,noisy
+1743,maja-Study_1_four_track_voice.mp3,3457544,78.4024,0.18,180.0,N,noisy
+1744,maja-Study_1_four_track_voice.mp3,3460527,78.47,0.18,180.0,N,noisy
+1745,maja-Study_1_four_track_voice.mp3,3463614,78.54,0.18,180.0,N,noisy
+1746,maja-Study_1_four_track_voice.mp3,3465482,78.5824,0.18,180.0,N,noisy
+1747,maja-Study_1_four_track_voice.mp3,3466701,78.61,0.18,180.0,N,noisy
+1748,maja-Study_1_four_track_voice.mp3,3469788,78.68,0.18,180.0,N,noisy
+1749,maja-Study_1_four_track_voice.mp3,3472875,78.75,0.18,180.0,N,noisy
+1750,maja-Study_1_four_track_voice.mp3,3473420,78.7624,0.18,180.0,N,noisy
+1751,maja-Study_1_four_track_voice.mp3,3475962,78.82,0.12,120.0,N,noisy
+1752,maja-Study_1_four_track_voice.mp3,3475962,78.82,0.18,180.0,N,noisy
+1753,maja-Study_1_four_track_voice.mp3,3494484,79.24,0.06,60.0,N,noisy
+1754,maja-Study_1_four_track_voice.mp3,3528441,80.01,0.35,350.0,N,tonal
+1755,maja-Study_1_four_track_voice.mp3,3537702,80.22,0.35,350.0,N,tonal
+1756,maja-Study_1_four_track_voice.mp3,3546963,80.43,0.35,350.0,N,tonal
+1757,maja-Study_1_four_track_voice.mp3,3556224,80.64,0.35,350.0,N,tonal
+1758,maja-Study_1_four_track_voice.mp3,3565485,80.85,0.35,350.0,N,tonal
+1759,maja-Study_1_four_track_voice.mp3,3574746,81.06,0.35,350.0,N,tonal
+1760,maja-Study_1_four_track_voice.mp3,3584007,81.27,0.35,350.0,N,tonal
+1761,maja-Study_1_four_track_voice.mp3,3593268,81.48,0.35,350.0,N,tonal
+1762,maja-Study_1_four_track_voice.mp3,3602529,81.69,0.35,350.0,N,tonal
+1763,maja-Study_1_four_track_voice.mp3,3611790,81.9,0.35,350.0,N,tonal
+1764,maja-Study_1_four_track_voice.mp3,3614464,81.9606,0.1451,145.1,Y,tonal
+1765,maja-Study_1_four_track_voice.mp3,3621051,82.11,0.35,350.0,N,tonal
+1766,maja-Study_1_four_track_voice.mp3,3636992,82.4715,0.0871,87.1,Y,tonal
+1767,maja-Study_1_four_track_voice.mp3,3648834,82.74,0.35,350.0,N,tonal
+1768,maja-Study_1_four_track_voice.mp3,3667356,83.16,0.35,350.0,N,tonal
+1769,maja-Study_1_four_track_voice.mp3,3676617,83.37,0.35,350.0,N,tonal
+1770,maja-Study_1_four_track_voice.mp3,3704400,84.0,0.35,350.0,N,tonal
+1771,maja-Study_1_four_track_voice.mp3,3719424,84.3407,0.2844,284.4,Y,transient
+1772,maja-Study_1_four_track_voice.mp3,3731968,84.6251,0.1161,116.1,Y,transient
+1773,maja-Study_1_four_track_voice.mp3,3744531,84.91,0.18,180.0,N,noisy
+1774,maja-Study_1_four_track_voice.mp3,3749376,85.0199,0.2902,290.2,Y,transient
+1775,maja-Study_1_four_track_voice.mp3,3750705,85.05,0.18,180.0,N,noisy
+1776,maja-Study_1_four_track_voice.mp3,3756879,85.19,0.18,180.0,N,noisy
+1777,maja-Study_1_four_track_voice.mp3,3772416,85.5423,0.2438,243.8,Y,noisy
+1778,maja-Study_1_four_track_voice.mp3,3778488,85.68,0.06,60.0,N,noisy
+1779,maja-Study_1_four_track_voice.mp3,3778488,85.68,0.18,180.0,N,noisy
+1780,maja-Study_1_four_track_voice.mp3,3783168,85.7861,0.06,60.0,Y,noisy
+1781,maja-Study_1_four_track_voice.mp3,3783168,85.7861,0.18,180.0,Y,noisy
+1782,maja-Study_1_four_track_voice.mp3,3784662,85.82,0.06,60.0,N,noisy
+1783,maja-Study_1_four_track_voice.mp3,3788288,85.9022,0.06,60.0,Y,noisy
+1784,maja-Study_1_four_track_voice.mp3,3790836,85.96,0.18,180.0,N,noisy
+1785,maja-Study_1_four_track_voice.mp3,3793923,86.03,0.18,180.0,N,noisy
+1786,maja-Study_1_four_track_voice.mp3,3796226,86.0822,0.18,180.0,N,noisy
+1787,maja-Study_1_four_track_voice.mp3,3797010,86.1,0.18,180.0,N,noisy
+1788,maja-Study_1_four_track_voice.mp3,3800097,86.17,0.18,180.0,N,noisy
+1789,maja-Study_1_four_track_voice.mp3,3803184,86.24,0.18,180.0,N,noisy
+1790,maja-Study_1_four_track_voice.mp3,3804164,86.2622,0.18,180.0,N,noisy
+1791,maja-Study_1_four_track_voice.mp3,3806271,86.31,0.18,180.0,N,noisy
+1792,maja-Study_1_four_track_voice.mp3,3809358,86.38,0.12,120.0,N,noisy
+1793,maja-Study_1_four_track_voice.mp3,3809358,86.38,0.18,180.0,N,noisy
+1794,maja-Study_1_four_track_voice.mp3,3812102,86.4422,0.18,180.0,N,noisy
+1795,maja-Study_1_four_track_voice.mp3,3812445,86.45,0.18,180.0,N,noisy
+1796,maja-Study_1_four_track_voice.mp3,3815532,86.52,0.18,180.0,N,noisy
+1797,maja-Study_1_four_track_voice.mp3,3818619,86.59,0.18,180.0,N,noisy
+1798,maja-Study_1_four_track_voice.mp3,3820040,86.6222,0.18,180.0,N,noisy
+1799,maja-Study_1_four_track_voice.mp3,3852544,87.3593,0.12,120.0,Y,noisy
