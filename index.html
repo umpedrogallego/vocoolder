@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Arquivo — Acervo Residência FONTE</title>
+
+  <!-- Filtro SVG Duotone Canônico (#002424 a #affffa) para Miniaturas -->
+  <svg style="position: absolute; width: 0; height: 0; pointer-events: none; overflow: hidden;" aria-hidden="true" focusable="false">
+    <filter id="duotone-fonte" color-interpolation-filters="sRGB">
+      <feColorMatrix type="matrix" values="0.299 0.587 0.114 0 0
+                                           0.299 0.587 0.114 0 0
+                                           0.299 0.587 0.114 0 0
+                                           0     0     0     1 0" />
+      <feComponentTransfer color-interpolation-filters="sRGB">
+        <feFuncR type="table" tableValues="0.0000 0.6863" />
+        <feFuncG type="table" tableValues="0.1412 1.0000" />
+        <feFuncB type="table" tableValues="0.1412 0.9804" />
+      </feComponentTransfer>
+    </filter>
+  </svg>
+
+  <!-- Tipografia Oficial -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Epilogue:wght@800&family=Spline+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <!-- Folha de Estilo Modular Mestre -->
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+
+  <!-- Topo & Título Principal -->
+  <header class="section-hero">
+    <div class="section-hero-spacer"></div>
+    <h1 class="section-hero-title">ARQUIVO</h1>
+
+    <!-- Abas de Fichário Superiores (Modos de Visualização) -->
+    <nav class="section-folder-tabs-header" aria-label="Modos de Visualização">
+      <div class="section-folder-tabs-rail" id="modes-tabs-rail">
+        <!-- Injetado dinamicamente via JS -->
+      </div>
+    </nav>
+  </header>
+
+  <!-- Painel de Conteúdo: Deck de 12 Colunas (8 Filtros + 4 Ordem) e Tabela -->
+  <main class="section-content-panel">
+    <section class="archive-control-deck" aria-label="Controles do Acervo">
+
+      <!-- Colunas 1 a 8: Filtros -->
+      <div class="deck-filters-col" id="filters-content-area">
+        <!-- Injetado dinamicamente via JS -->
+      </div>
+
+      <!-- Colunas 9 a 12: Ordem & Ações -->
+      <div class="deck-sort-col">
+        <div class="deck-sort-top">
+          <div class="filter-block">
+            <span class="filter-block-label">ORDENAR</span>
+            <div class="filter-buttons-rail" id="sort-buttons-stack">
+              <!-- Injetado dinamicamente via JS -->
+            </div>
+          </div>
+        </div>
+        <div class="deck-sort-bottom">
+          <span class="filter-count-badge" id="filter-count-badge"></span>
+          <button type="button" class="btn-clear-filters" id="btn-clear-filters">Limpar Filtros</button>
+        </div>
+      </div>
+
+    </section>
+
+    <!-- Tabela do Acervo de 12 Colunas -->
+    <section class="table-container" aria-label="Registros do Acervo">
+      <div class="arq-header-row" id="table-header-row" role="row"></div>
+      <div id="table-body" role="rowgroup"></div>
+      <div id="table-footer-container"></div>
+    </section>
+  </main>
+
+  <!-- Espaçador Inferior do Layout -->
+  <div style="height: 180px;"></div>
+
+  <!-- HUD do Grid Guide -->
+  <aside id="grid-guide-hud" class="grid-guide-hud" aria-label="Grid Guide"></aside>
+
+  <!-- Lógica Principal Modular (ES Module) -->
+  <script type="module" src="/app.js"></script>
+</body>
+</html>
